@@ -1,0 +1,11934 @@
+{
+ "_not": "Malzeme kataloğu. Kutu/boru/köşebent/lama/çubuk kg/m değerleri kesit formülünden hesaplandı (köşe radyusu ihmal — piyasa tablolarının yaptığı gibi, gerçek değer ±%5 oynayabilir). IPE/IPN/UPN/HEA/HEB/HEM değerleri standart TABLOdan; köşebent ve tabloda olmayan haddelenmiş ölçüler structuralcodes (Apache-2.0) kütüphanesinden, radyuslar dahil. Katalog REFERANSTIR, sipariş öncesi tedarikçi tablosuyla teyit edilmeli.",
+ "profil": [
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 20×20×1.5",
+   "b": 20,
+   "h": 20,
+   "t": 1.5,
+   "kgm": 0.871,
+   "cevre": 80,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 20×20×2",
+   "b": 20,
+   "h": 20,
+   "t": 2,
+   "kgm": 1.13,
+   "cevre": 80,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 20×20×2.5",
+   "b": 20,
+   "h": 20,
+   "t": 2.5,
+   "kgm": 1.374,
+   "cevre": 80,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 20×20×3",
+   "b": 20,
+   "h": 20,
+   "t": 3,
+   "kgm": 1.601,
+   "cevre": 80,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 25×25×1.5",
+   "b": 25,
+   "h": 25,
+   "t": 1.5,
+   "kgm": 1.107,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 25×25×2",
+   "b": 25,
+   "h": 25,
+   "t": 2,
+   "kgm": 1.444,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 25×25×2.5",
+   "b": 25,
+   "h": 25,
+   "t": 2.5,
+   "kgm": 1.766,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 25×25×3",
+   "b": 25,
+   "h": 25,
+   "t": 3,
+   "kgm": 2.072,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×30×1.5",
+   "b": 30,
+   "h": 30,
+   "t": 1.5,
+   "kgm": 1.342,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×30×2",
+   "b": 30,
+   "h": 30,
+   "t": 2,
+   "kgm": 1.758,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×30×2.5",
+   "b": 30,
+   "h": 30,
+   "t": 2.5,
+   "kgm": 2.159,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×30×3",
+   "b": 30,
+   "h": 30,
+   "t": 3,
+   "kgm": 2.543,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 35×35×1.5",
+   "b": 35,
+   "h": 35,
+   "t": 1.5,
+   "kgm": 1.578,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 35×35×2",
+   "b": 35,
+   "h": 35,
+   "t": 2,
+   "kgm": 2.072,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 35×35×2.5",
+   "b": 35,
+   "h": 35,
+   "t": 2.5,
+   "kgm": 2.551,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 35×35×3",
+   "b": 35,
+   "h": 35,
+   "t": 3,
+   "kgm": 3.014,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×40×1.5",
+   "b": 40,
+   "h": 40,
+   "t": 1.5,
+   "kgm": 1.813,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×40×2",
+   "b": 40,
+   "h": 40,
+   "t": 2,
+   "kgm": 2.386,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×40×2.5",
+   "b": 40,
+   "h": 40,
+   "t": 2.5,
+   "kgm": 2.944,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×40×3",
+   "b": 40,
+   "h": 40,
+   "t": 3,
+   "kgm": 3.485,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×40×4",
+   "b": 40,
+   "h": 40,
+   "t": 4,
+   "kgm": 4.522,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×50×2",
+   "b": 50,
+   "h": 50,
+   "t": 2,
+   "kgm": 3.014,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×50×2.5",
+   "b": 50,
+   "h": 50,
+   "t": 2.5,
+   "kgm": 3.729,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×50×3",
+   "b": 50,
+   "h": 50,
+   "t": 3,
+   "kgm": 4.427,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×50×4",
+   "b": 50,
+   "h": 50,
+   "t": 4,
+   "kgm": 5.778,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×50×5",
+   "b": 50,
+   "h": 50,
+   "t": 5,
+   "kgm": 7.065,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×2",
+   "b": 60,
+   "h": 60,
+   "t": 2,
+   "kgm": 3.642,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×2.5",
+   "b": 60,
+   "h": 60,
+   "t": 2.5,
+   "kgm": 4.514,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×3",
+   "b": 60,
+   "h": 60,
+   "t": 3,
+   "kgm": 5.369,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×4",
+   "b": 60,
+   "h": 60,
+   "t": 4,
+   "kgm": 7.034,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×5",
+   "b": 60,
+   "h": 60,
+   "t": 5,
+   "kgm": 8.635,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×60×6",
+   "b": 60,
+   "h": 60,
+   "t": 6,
+   "kgm": 10.174,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 70×70×2",
+   "b": 70,
+   "h": 70,
+   "t": 2,
+   "kgm": 4.27,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 70×70×3",
+   "b": 70,
+   "h": 70,
+   "t": 3,
+   "kgm": 6.311,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 70×70×4",
+   "b": 70,
+   "h": 70,
+   "t": 4,
+   "kgm": 8.29,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 70×70×5",
+   "b": 70,
+   "h": 70,
+   "t": 5,
+   "kgm": 10.205,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 70×70×6",
+   "b": 70,
+   "h": 70,
+   "t": 6,
+   "kgm": 12.058,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×2",
+   "b": 80,
+   "h": 80,
+   "t": 2,
+   "kgm": 4.898,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×3",
+   "b": 80,
+   "h": 80,
+   "t": 3,
+   "kgm": 7.253,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×4",
+   "b": 80,
+   "h": 80,
+   "t": 4,
+   "kgm": 9.546,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×5",
+   "b": 80,
+   "h": 80,
+   "t": 5,
+   "kgm": 11.775,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×6",
+   "b": 80,
+   "h": 80,
+   "t": 6,
+   "kgm": 13.942,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×80×8",
+   "b": 80,
+   "h": 80,
+   "t": 8,
+   "kgm": 18.086,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 90×90×3",
+   "b": 90,
+   "h": 90,
+   "t": 3,
+   "kgm": 8.195,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 90×90×4",
+   "b": 90,
+   "h": 90,
+   "t": 4,
+   "kgm": 10.802,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 90×90×5",
+   "b": 90,
+   "h": 90,
+   "t": 5,
+   "kgm": 13.345,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 90×90×6",
+   "b": 90,
+   "h": 90,
+   "t": 6,
+   "kgm": 15.826,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 90×90×8",
+   "b": 90,
+   "h": 90,
+   "t": 8,
+   "kgm": 20.598,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×3",
+   "b": 100,
+   "h": 100,
+   "t": 3,
+   "kgm": 9.137,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×4",
+   "b": 100,
+   "h": 100,
+   "t": 4,
+   "kgm": 12.058,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×5",
+   "b": 100,
+   "h": 100,
+   "t": 5,
+   "kgm": 14.915,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×6",
+   "b": 100,
+   "h": 100,
+   "t": 6,
+   "kgm": 17.71,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×8",
+   "b": 100,
+   "h": 100,
+   "t": 8,
+   "kgm": 23.11,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×100×10",
+   "b": 100,
+   "h": 100,
+   "t": 10,
+   "kgm": 28.26,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×120×4",
+   "b": 120,
+   "h": 120,
+   "t": 4,
+   "kgm": 14.57,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×120×5",
+   "b": 120,
+   "h": 120,
+   "t": 5,
+   "kgm": 18.055,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×120×6",
+   "b": 120,
+   "h": 120,
+   "t": 6,
+   "kgm": 21.478,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×120×8",
+   "b": 120,
+   "h": 120,
+   "t": 8,
+   "kgm": 28.134,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×120×10",
+   "b": 120,
+   "h": 120,
+   "t": 10,
+   "kgm": 34.54,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×140×4",
+   "b": 140,
+   "h": 140,
+   "t": 4,
+   "kgm": 17.082,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×140×5",
+   "b": 140,
+   "h": 140,
+   "t": 5,
+   "kgm": 21.195,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×140×6",
+   "b": 140,
+   "h": 140,
+   "t": 6,
+   "kgm": 25.246,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×140×8",
+   "b": 140,
+   "h": 140,
+   "t": 8,
+   "kgm": 33.158,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×140×10",
+   "b": 140,
+   "h": 140,
+   "t": 10,
+   "kgm": 40.82,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×150×4",
+   "b": 150,
+   "h": 150,
+   "t": 4,
+   "kgm": 18.338,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×150×5",
+   "b": 150,
+   "h": 150,
+   "t": 5,
+   "kgm": 22.765,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×150×6",
+   "b": 150,
+   "h": 150,
+   "t": 6,
+   "kgm": 27.13,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×150×8",
+   "b": 150,
+   "h": 150,
+   "t": 8,
+   "kgm": 35.67,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×150×10",
+   "b": 150,
+   "h": 150,
+   "t": 10,
+   "kgm": 43.96,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×160×5",
+   "b": 160,
+   "h": 160,
+   "t": 5,
+   "kgm": 24.335,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×160×6",
+   "b": 160,
+   "h": 160,
+   "t": 6,
+   "kgm": 29.014,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×160×8",
+   "b": 160,
+   "h": 160,
+   "t": 8,
+   "kgm": 38.182,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×160×10",
+   "b": 160,
+   "h": 160,
+   "t": 10,
+   "kgm": 47.1,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×160×12",
+   "b": 160,
+   "h": 160,
+   "t": 12,
+   "kgm": 55.766,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×180×5",
+   "b": 180,
+   "h": 180,
+   "t": 5,
+   "kgm": 27.475,
+   "cevre": 720,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×180×6",
+   "b": 180,
+   "h": 180,
+   "t": 6,
+   "kgm": 32.782,
+   "cevre": 720,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×180×8",
+   "b": 180,
+   "h": 180,
+   "t": 8,
+   "kgm": 43.206,
+   "cevre": 720,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×180×10",
+   "b": 180,
+   "h": 180,
+   "t": 10,
+   "kgm": 53.38,
+   "cevre": 720,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×180×12",
+   "b": 180,
+   "h": 180,
+   "t": 12,
+   "kgm": 63.302,
+   "cevre": 720,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×200×5",
+   "b": 200,
+   "h": 200,
+   "t": 5,
+   "kgm": 30.615,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×200×6",
+   "b": 200,
+   "h": 200,
+   "t": 6,
+   "kgm": 36.55,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×200×8",
+   "b": 200,
+   "h": 200,
+   "t": 8,
+   "kgm": 48.23,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×200×10",
+   "b": 200,
+   "h": 200,
+   "t": 10,
+   "kgm": 59.66,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×200×12",
+   "b": 200,
+   "h": 200,
+   "t": 12,
+   "kgm": 70.838,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×250×6",
+   "b": 250,
+   "h": 250,
+   "t": 6,
+   "kgm": 45.97,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×250×8",
+   "b": 250,
+   "h": 250,
+   "t": 8,
+   "kgm": 60.79,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×250×10",
+   "b": 250,
+   "h": 250,
+   "t": 10,
+   "kgm": 75.36,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×250×12",
+   "b": 250,
+   "h": 250,
+   "t": 12,
+   "kgm": 89.678,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×300×8",
+   "b": 300,
+   "h": 300,
+   "t": 8,
+   "kgm": 73.35,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×300×10",
+   "b": 300,
+   "h": 300,
+   "t": 10,
+   "kgm": 91.06,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×300×12",
+   "b": 300,
+   "h": 300,
+   "t": 12,
+   "kgm": 108.518,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 350×350×8",
+   "b": 350,
+   "h": 350,
+   "t": 8,
+   "kgm": 85.91,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 350×350×10",
+   "b": 350,
+   "h": 350,
+   "t": 10,
+   "kgm": 106.76,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 350×350×12",
+   "b": 350,
+   "h": 350,
+   "t": 12,
+   "kgm": 127.358,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×400×10",
+   "b": 400,
+   "h": 400,
+   "t": 10,
+   "kgm": 122.46,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×400×12",
+   "b": 400,
+   "h": 400,
+   "t": 12,
+   "kgm": 146.198,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×400×14",
+   "b": 400,
+   "h": 400,
+   "t": 14,
+   "kgm": 169.686,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×400×16",
+   "b": 400,
+   "h": 400,
+   "t": 16,
+   "kgm": 192.922,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 450×450×10",
+   "b": 450,
+   "h": 450,
+   "t": 10,
+   "kgm": 138.16,
+   "cevre": 1800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 450×450×12",
+   "b": 450,
+   "h": 450,
+   "t": 12,
+   "kgm": 165.038,
+   "cevre": 1800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 450×450×14",
+   "b": 450,
+   "h": 450,
+   "t": 14,
+   "kgm": 191.666,
+   "cevre": 1800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 450×450×16",
+   "b": 450,
+   "h": 450,
+   "t": 16,
+   "kgm": 218.042,
+   "cevre": 1800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×500×10",
+   "b": 500,
+   "h": 500,
+   "t": 10,
+   "kgm": 153.86,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×500×12",
+   "b": 500,
+   "h": 500,
+   "t": 12,
+   "kgm": 183.878,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×500×14",
+   "b": 500,
+   "h": 500,
+   "t": 14,
+   "kgm": 213.646,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×500×16",
+   "b": 500,
+   "h": 500,
+   "t": 16,
+   "kgm": 243.162,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×500×20",
+   "b": 500,
+   "h": 500,
+   "t": 20,
+   "kgm": 301.44,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 600×600×12",
+   "b": 600,
+   "h": 600,
+   "t": 12,
+   "kgm": 221.558,
+   "cevre": 2400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 600×600×16",
+   "b": 600,
+   "h": 600,
+   "t": 16,
+   "kgm": 293.402,
+   "cevre": 2400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 600×600×20",
+   "b": 600,
+   "h": 600,
+   "t": 20,
+   "kgm": 364.24,
+   "cevre": 2400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×20×1.5",
+   "b": 30,
+   "h": 20,
+   "t": 1.5,
+   "kgm": 1.107,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×20×2",
+   "b": 30,
+   "h": 20,
+   "t": 2,
+   "kgm": 1.444,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×20×2.5",
+   "b": 30,
+   "h": 20,
+   "t": 2.5,
+   "kgm": 1.766,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 30×20×3",
+   "b": 30,
+   "h": 20,
+   "t": 3,
+   "kgm": 2.072,
+   "cevre": 100,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×20×1.5",
+   "b": 40,
+   "h": 20,
+   "t": 1.5,
+   "kgm": 1.342,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×20×2",
+   "b": 40,
+   "h": 20,
+   "t": 2,
+   "kgm": 1.758,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×20×2.5",
+   "b": 40,
+   "h": 20,
+   "t": 2.5,
+   "kgm": 2.159,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×20×3",
+   "b": 40,
+   "h": 20,
+   "t": 3,
+   "kgm": 2.543,
+   "cevre": 120,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×30×1.5",
+   "b": 40,
+   "h": 30,
+   "t": 1.5,
+   "kgm": 1.578,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×30×2",
+   "b": 40,
+   "h": 30,
+   "t": 2,
+   "kgm": 2.072,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×30×2.5",
+   "b": 40,
+   "h": 30,
+   "t": 2.5,
+   "kgm": 2.551,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 40×30×3",
+   "b": 40,
+   "h": 30,
+   "t": 3,
+   "kgm": 3.014,
+   "cevre": 140,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×30×2",
+   "b": 50,
+   "h": 30,
+   "t": 2,
+   "kgm": 2.386,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×30×2.5",
+   "b": 50,
+   "h": 30,
+   "t": 2.5,
+   "kgm": 2.944,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 50×30×3",
+   "b": 50,
+   "h": 30,
+   "t": 3,
+   "kgm": 3.485,
+   "cevre": 160,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×30×2",
+   "b": 60,
+   "h": 30,
+   "t": 2,
+   "kgm": 2.7,
+   "cevre": 180,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×30×2.5",
+   "b": 60,
+   "h": 30,
+   "t": 2.5,
+   "kgm": 3.336,
+   "cevre": 180,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×30×3",
+   "b": 60,
+   "h": 30,
+   "t": 3,
+   "kgm": 3.956,
+   "cevre": 180,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×40×2",
+   "b": 60,
+   "h": 40,
+   "t": 2,
+   "kgm": 3.014,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×40×2.5",
+   "b": 60,
+   "h": 40,
+   "t": 2.5,
+   "kgm": 3.729,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×40×3",
+   "b": 60,
+   "h": 40,
+   "t": 3,
+   "kgm": 4.427,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 60×40×4",
+   "b": 60,
+   "h": 40,
+   "t": 4,
+   "kgm": 5.778,
+   "cevre": 200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×40×2",
+   "b": 80,
+   "h": 40,
+   "t": 2,
+   "kgm": 3.642,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×40×3",
+   "b": 80,
+   "h": 40,
+   "t": 3,
+   "kgm": 5.369,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×40×4",
+   "b": 80,
+   "h": 40,
+   "t": 4,
+   "kgm": 7.034,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×40×5",
+   "b": 80,
+   "h": 40,
+   "t": 5,
+   "kgm": 8.635,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×40×6",
+   "b": 80,
+   "h": 40,
+   "t": 6,
+   "kgm": 10.174,
+   "cevre": 240,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×40×3",
+   "b": 100,
+   "h": 40,
+   "t": 3,
+   "kgm": 6.311,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×40×4",
+   "b": 100,
+   "h": 40,
+   "t": 4,
+   "kgm": 8.29,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×40×5",
+   "b": 100,
+   "h": 40,
+   "t": 5,
+   "kgm": 10.205,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×40×6",
+   "b": 100,
+   "h": 40,
+   "t": 6,
+   "kgm": 12.058,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×60×3",
+   "b": 80,
+   "h": 60,
+   "t": 3,
+   "kgm": 6.311,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×60×4",
+   "b": 80,
+   "h": 60,
+   "t": 4,
+   "kgm": 8.29,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×60×5",
+   "b": 80,
+   "h": 60,
+   "t": 5,
+   "kgm": 10.205,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 80×60×6",
+   "b": 80,
+   "h": 60,
+   "t": 6,
+   "kgm": 12.058,
+   "cevre": 280,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×50×3",
+   "b": 100,
+   "h": 50,
+   "t": 3,
+   "kgm": 6.782,
+   "cevre": 300,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×50×4",
+   "b": 100,
+   "h": 50,
+   "t": 4,
+   "kgm": 8.918,
+   "cevre": 300,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×50×5",
+   "b": 100,
+   "h": 50,
+   "t": 5,
+   "kgm": 10.99,
+   "cevre": 300,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×50×6",
+   "b": 100,
+   "h": 50,
+   "t": 6,
+   "kgm": 13.0,
+   "cevre": 300,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×60×3",
+   "b": 100,
+   "h": 60,
+   "t": 3,
+   "kgm": 7.253,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×60×4",
+   "b": 100,
+   "h": 60,
+   "t": 4,
+   "kgm": 9.546,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×60×5",
+   "b": 100,
+   "h": 60,
+   "t": 5,
+   "kgm": 11.775,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×60×6",
+   "b": 100,
+   "h": 60,
+   "t": 6,
+   "kgm": 13.942,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 100×60×8",
+   "b": 100,
+   "h": 60,
+   "t": 8,
+   "kgm": 18.086,
+   "cevre": 320,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×60×3",
+   "b": 120,
+   "h": 60,
+   "t": 3,
+   "kgm": 8.195,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×60×4",
+   "b": 120,
+   "h": 60,
+   "t": 4,
+   "kgm": 10.802,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×60×5",
+   "b": 120,
+   "h": 60,
+   "t": 5,
+   "kgm": 13.345,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×60×6",
+   "b": 120,
+   "h": 60,
+   "t": 6,
+   "kgm": 15.826,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×60×8",
+   "b": 120,
+   "h": 60,
+   "t": 8,
+   "kgm": 20.598,
+   "cevre": 360,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×80×4",
+   "b": 120,
+   "h": 80,
+   "t": 4,
+   "kgm": 12.058,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×80×5",
+   "b": 120,
+   "h": 80,
+   "t": 5,
+   "kgm": 14.915,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×80×6",
+   "b": 120,
+   "h": 80,
+   "t": 6,
+   "kgm": 17.71,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 120×80×8",
+   "b": 120,
+   "h": 80,
+   "t": 8,
+   "kgm": 23.11,
+   "cevre": 400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×80×4",
+   "b": 140,
+   "h": 80,
+   "t": 4,
+   "kgm": 13.314,
+   "cevre": 440,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×80×5",
+   "b": 140,
+   "h": 80,
+   "t": 5,
+   "kgm": 16.485,
+   "cevre": 440,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×80×6",
+   "b": 140,
+   "h": 80,
+   "t": 6,
+   "kgm": 19.594,
+   "cevre": 440,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 140×80×8",
+   "b": 140,
+   "h": 80,
+   "t": 8,
+   "kgm": 25.622,
+   "cevre": 440,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×100×4",
+   "b": 150,
+   "h": 100,
+   "t": 4,
+   "kgm": 15.198,
+   "cevre": 500,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×100×5",
+   "b": 150,
+   "h": 100,
+   "t": 5,
+   "kgm": 18.84,
+   "cevre": 500,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×100×6",
+   "b": 150,
+   "h": 100,
+   "t": 6,
+   "kgm": 22.42,
+   "cevre": 500,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 150×100×8",
+   "b": 150,
+   "h": 100,
+   "t": 8,
+   "kgm": 29.39,
+   "cevre": 500,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×80×4",
+   "b": 160,
+   "h": 80,
+   "t": 4,
+   "kgm": 14.57,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×80×5",
+   "b": 160,
+   "h": 80,
+   "t": 5,
+   "kgm": 18.055,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×80×6",
+   "b": 160,
+   "h": 80,
+   "t": 6,
+   "kgm": 21.478,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 160×80×8",
+   "b": 160,
+   "h": 80,
+   "t": 8,
+   "kgm": 28.134,
+   "cevre": 480,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×100×5",
+   "b": 180,
+   "h": 100,
+   "t": 5,
+   "kgm": 21.195,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×100×6",
+   "b": 180,
+   "h": 100,
+   "t": 6,
+   "kgm": 25.246,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 180×100×8",
+   "b": 180,
+   "h": 100,
+   "t": 8,
+   "kgm": 33.158,
+   "cevre": 560,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×100×5",
+   "b": 200,
+   "h": 100,
+   "t": 5,
+   "kgm": 22.765,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×100×6",
+   "b": 200,
+   "h": 100,
+   "t": 6,
+   "kgm": 27.13,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×100×8",
+   "b": 200,
+   "h": 100,
+   "t": 8,
+   "kgm": 35.67,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×100×10",
+   "b": 200,
+   "h": 100,
+   "t": 10,
+   "kgm": 43.96,
+   "cevre": 600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×120×6",
+   "b": 200,
+   "h": 120,
+   "t": 6,
+   "kgm": 29.014,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×120×8",
+   "b": 200,
+   "h": 120,
+   "t": 8,
+   "kgm": 38.182,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 200×120×10",
+   "b": 200,
+   "h": 120,
+   "t": 10,
+   "kgm": 47.1,
+   "cevre": 640,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×150×6",
+   "b": 250,
+   "h": 150,
+   "t": 6,
+   "kgm": 36.55,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×150×8",
+   "b": 250,
+   "h": 150,
+   "t": 8,
+   "kgm": 48.23,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 250×150×10",
+   "b": 250,
+   "h": 150,
+   "t": 10,
+   "kgm": 59.66,
+   "cevre": 800,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×200×8",
+   "b": 300,
+   "h": 200,
+   "t": 8,
+   "kgm": 60.79,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×200×10",
+   "b": 300,
+   "h": 200,
+   "t": 10,
+   "kgm": 75.36,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 300×200×12",
+   "b": 300,
+   "h": 200,
+   "t": 12,
+   "kgm": 89.678,
+   "cevre": 1000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×200×10",
+   "b": 400,
+   "h": 200,
+   "t": 10,
+   "kgm": 91.06,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×200×12",
+   "b": 400,
+   "h": 200,
+   "t": 12,
+   "kgm": 108.518,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×200×14",
+   "b": 400,
+   "h": 200,
+   "t": 14,
+   "kgm": 125.726,
+   "cevre": 1200,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×300×10",
+   "b": 400,
+   "h": 300,
+   "t": 10,
+   "kgm": 106.76,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×300×12",
+   "b": 400,
+   "h": 300,
+   "t": 12,
+   "kgm": 127.358,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 400×300×16",
+   "b": 400,
+   "h": 300,
+   "t": 16,
+   "kgm": 167.802,
+   "cevre": 1400,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×300×12",
+   "b": 500,
+   "h": 300,
+   "t": 12,
+   "kgm": 146.198,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×300×16",
+   "b": 500,
+   "h": 300,
+   "t": 16,
+   "kgm": 192.922,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 500×300×20",
+   "b": 500,
+   "h": 300,
+   "t": 20,
+   "kgm": 238.64,
+   "cevre": 1600,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 600×400×16",
+   "b": 600,
+   "h": 400,
+   "t": 16,
+   "kgm": 243.162,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kutu",
+   "ad": "Kutu profil 600×400×20",
+   "b": 600,
+   "h": 400,
+   "t": 20,
+   "kgm": 301.44,
+   "cevre": 2000,
+   "std": "EN 10219",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø21.3×2",
+   "d": 21.3,
+   "t": 2,
+   "kgm": 0.952,
+   "cevre": 66.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø21.3×2.65",
+   "d": 21.3,
+   "t": 2.65,
+   "kgm": 1.219,
+   "cevre": 66.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø21.3×3.2",
+   "d": 21.3,
+   "t": 3.2,
+   "kgm": 1.428,
+   "cevre": 66.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø26.9×2",
+   "d": 26.9,
+   "t": 2,
+   "kgm": 1.228,
+   "cevre": 84.5,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø26.9×2.65",
+   "d": 26.9,
+   "t": 2.65,
+   "kgm": 1.585,
+   "cevre": 84.5,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø26.9×3.2",
+   "d": 26.9,
+   "t": 3.2,
+   "kgm": 1.87,
+   "cevre": 84.5,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø33.7×2.6",
+   "d": 33.7,
+   "t": 2.6,
+   "kgm": 1.994,
+   "cevre": 105.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø33.7×3.2",
+   "d": 33.7,
+   "t": 3.2,
+   "kgm": 2.407,
+   "cevre": 105.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø33.7×4",
+   "d": 33.7,
+   "t": 4,
+   "kgm": 2.93,
+   "cevre": 105.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø42.4×2.6",
+   "d": 42.4,
+   "t": 2.6,
+   "kgm": 2.552,
+   "cevre": 133.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø42.4×3.2",
+   "d": 42.4,
+   "t": 3.2,
+   "kgm": 3.094,
+   "cevre": 133.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø42.4×4",
+   "d": 42.4,
+   "t": 4,
+   "kgm": 3.788,
+   "cevre": 133.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø48.3×2.6",
+   "d": 48.3,
+   "t": 2.6,
+   "kgm": 2.93,
+   "cevre": 151.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø48.3×3.2",
+   "d": 48.3,
+   "t": 3.2,
+   "kgm": 3.559,
+   "cevre": 151.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø48.3×4",
+   "d": 48.3,
+   "t": 4,
+   "kgm": 4.37,
+   "cevre": 151.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø48.3×5",
+   "d": 48.3,
+   "t": 5,
+   "kgm": 5.339,
+   "cevre": 151.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø60.3×2.9",
+   "d": 60.3,
+   "t": 2.9,
+   "kgm": 4.105,
+   "cevre": 189.4,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø60.3×3.2",
+   "d": 60.3,
+   "t": 3.2,
+   "kgm": 4.506,
+   "cevre": 189.4,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø60.3×4",
+   "d": 60.3,
+   "t": 4,
+   "kgm": 5.554,
+   "cevre": 189.4,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø60.3×5",
+   "d": 60.3,
+   "t": 5,
+   "kgm": 6.819,
+   "cevre": 189.4,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø76.1×2.9",
+   "d": 76.1,
+   "t": 2.9,
+   "kgm": 5.235,
+   "cevre": 239.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø76.1×3.2",
+   "d": 76.1,
+   "t": 3.2,
+   "kgm": 5.753,
+   "cevre": 239.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø76.1×4",
+   "d": 76.1,
+   "t": 4,
+   "kgm": 7.112,
+   "cevre": 239.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø76.1×5",
+   "d": 76.1,
+   "t": 5,
+   "kgm": 8.767,
+   "cevre": 239.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø88.9×3.2",
+   "d": 88.9,
+   "t": 3.2,
+   "kgm": 6.763,
+   "cevre": 279.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø88.9×4",
+   "d": 88.9,
+   "t": 4,
+   "kgm": 8.375,
+   "cevre": 279.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø88.9×5",
+   "d": 88.9,
+   "t": 5,
+   "kgm": 10.346,
+   "cevre": 279.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø88.9×6",
+   "d": 88.9,
+   "t": 6,
+   "kgm": 12.267,
+   "cevre": 279.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø101.6×3.2",
+   "d": 101.6,
+   "t": 3.2,
+   "kgm": 7.765,
+   "cevre": 319.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø101.6×4",
+   "d": 101.6,
+   "t": 4,
+   "kgm": 9.628,
+   "cevre": 319.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø101.6×5",
+   "d": 101.6,
+   "t": 5,
+   "kgm": 11.912,
+   "cevre": 319.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø101.6×6",
+   "d": 101.6,
+   "t": 6,
+   "kgm": 14.146,
+   "cevre": 319.2,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø114.3×3.6",
+   "d": 114.3,
+   "t": 3.6,
+   "kgm": 9.828,
+   "cevre": 359.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø114.3×4",
+   "d": 114.3,
+   "t": 4,
+   "kgm": 10.881,
+   "cevre": 359.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø114.3×5",
+   "d": 114.3,
+   "t": 5,
+   "kgm": 13.478,
+   "cevre": 359.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø114.3×6",
+   "d": 114.3,
+   "t": 6,
+   "kgm": 16.025,
+   "cevre": 359.1,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø139.7×4",
+   "d": 139.7,
+   "t": 4,
+   "kgm": 13.386,
+   "cevre": 438.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø139.7×5",
+   "d": 139.7,
+   "t": 5,
+   "kgm": 16.61,
+   "cevre": 438.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø139.7×6",
+   "d": 139.7,
+   "t": 6,
+   "kgm": 19.783,
+   "cevre": 438.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø139.7×8",
+   "d": 139.7,
+   "t": 8,
+   "kgm": 25.983,
+   "cevre": 438.9,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø168.3×4.5",
+   "d": 168.3,
+   "t": 4.5,
+   "kgm": 18.178,
+   "cevre": 528.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø168.3×5",
+   "d": 168.3,
+   "t": 5,
+   "kgm": 20.136,
+   "cevre": 528.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø168.3×6",
+   "d": 168.3,
+   "t": 6,
+   "kgm": 24.015,
+   "cevre": 528.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø168.3×8",
+   "d": 168.3,
+   "t": 8,
+   "kgm": 31.626,
+   "cevre": 528.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø219.1×5",
+   "d": 219.1,
+   "t": 5,
+   "kgm": 26.4,
+   "cevre": 688.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø219.1×6",
+   "d": 219.1,
+   "t": 6,
+   "kgm": 31.532,
+   "cevre": 688.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø219.1×8",
+   "d": 219.1,
+   "t": 8,
+   "kgm": 41.648,
+   "cevre": 688.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø219.1×10",
+   "d": 219.1,
+   "t": 10,
+   "kgm": 51.567,
+   "cevre": 688.3,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø273×6",
+   "d": 273,
+   "t": 6,
+   "kgm": 39.508,
+   "cevre": 857.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø273×8",
+   "d": 273,
+   "t": 8,
+   "kgm": 52.282,
+   "cevre": 857.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø273×10",
+   "d": 273,
+   "t": 10,
+   "kgm": 64.86,
+   "cevre": 857.7,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø323.9×6",
+   "d": 323.9,
+   "t": 6,
+   "kgm": 47.039,
+   "cevre": 1017.6,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø323.9×8",
+   "d": 323.9,
+   "t": 8,
+   "kgm": 62.325,
+   "cevre": 1017.6,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "boru",
+   "ad": "Boru Ø323.9×10",
+   "d": 323.9,
+   "t": 10,
+   "kgm": 77.412,
+   "cevre": 1017.6,
+   "std": "EN 10219-C",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 20×20×3",
+   "a": 20.0,
+   "b": 20.0,
+   "t": 3.0,
+   "kgm": 0.879,
+   "alan": 111.9,
+   "cevre": 80.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 25×25×3",
+   "a": 25.0,
+   "b": 25.0,
+   "t": 3.0,
+   "kgm": 1.114,
+   "alan": 141.9,
+   "cevre": 100.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 25×25×4",
+   "a": 25.0,
+   "b": 25.0,
+   "t": 4.0,
+   "kgm": 1.452,
+   "alan": 184.9,
+   "cevre": 100.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 30×30×3",
+   "a": 30.0,
+   "b": 30.0,
+   "t": 3.0,
+   "kgm": 1.364,
+   "alan": 173.7,
+   "cevre": 120.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 30×30×4",
+   "a": 30.0,
+   "b": 30.0,
+   "t": 4.0,
+   "kgm": 1.78,
+   "alan": 226.7,
+   "cevre": 120.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 35×35×4",
+   "a": 35.0,
+   "b": 35.0,
+   "t": 4.0,
+   "kgm": 2.094,
+   "alan": 266.7,
+   "cevre": 140.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 40×40×4",
+   "a": 40.0,
+   "b": 40.0,
+   "t": 4.0,
+   "kgm": 2.417,
+   "alan": 307.9,
+   "cevre": 160.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 40×40×5",
+   "a": 40.0,
+   "b": 40.0,
+   "t": 5.0,
+   "kgm": 2.974,
+   "alan": 378.9,
+   "cevre": 160.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 45×45×4.5",
+   "a": 45.0,
+   "b": 45.0,
+   "t": 4.5,
+   "kgm": 3.062,
+   "alan": 390.0,
+   "cevre": 180.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 50×50×4",
+   "a": 50.0,
+   "b": 50.0,
+   "t": 4.0,
+   "kgm": 3.056,
+   "alan": 389.3,
+   "cevre": 200.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 50×50×5",
+   "a": 50.0,
+   "b": 50.0,
+   "t": 5.0,
+   "kgm": 3.77,
+   "alan": 480.3,
+   "cevre": 200.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 50×50×6",
+   "a": 50.0,
+   "b": 50.0,
+   "t": 6.0,
+   "kgm": 4.469,
+   "alan": 569.3,
+   "cevre": 200.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 60×60×5",
+   "a": 60.0,
+   "b": 60.0,
+   "t": 5.0,
+   "kgm": 4.568,
+   "alan": 581.9,
+   "cevre": 240.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 60×60×6",
+   "a": 60.0,
+   "b": 60.0,
+   "t": 6.0,
+   "kgm": 5.424,
+   "alan": 690.9,
+   "cevre": 240.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 60×60×8",
+   "a": 60.0,
+   "b": 60.0,
+   "t": 8.0,
+   "kgm": 7.088,
+   "alan": 902.9,
+   "cevre": 240.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 65×65×7",
+   "a": 65.0,
+   "b": 65.0,
+   "t": 7.0,
+   "kgm": 6.827,
+   "alan": 869.7,
+   "cevre": 260.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 70×70×6",
+   "a": 70.0,
+   "b": 70.0,
+   "t": 6.0,
+   "kgm": 6.38,
+   "alan": 812.7,
+   "cevre": 280.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 70×70×7",
+   "a": 70.0,
+   "b": 70.0,
+   "t": 7.0,
+   "kgm": 7.377,
+   "alan": 939.7,
+   "cevre": 280.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 75×75×6",
+   "a": 75.0,
+   "b": 75.0,
+   "t": 6.0,
+   "kgm": 6.867,
+   "alan": 874.8,
+   "cevre": 300.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 75×75×8",
+   "a": 75.0,
+   "b": 75.0,
+   "t": 8.0,
+   "kgm": 9.002,
+   "alan": 1146.8,
+   "cevre": 300.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 80×80×8",
+   "a": 80.0,
+   "b": 80.0,
+   "t": 8.0,
+   "kgm": 9.63,
+   "alan": 1226.8,
+   "cevre": 320.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 80×80×10",
+   "a": 80.0,
+   "b": 80.0,
+   "t": 10.0,
+   "kgm": 11.86,
+   "alan": 1510.8,
+   "cevre": 320.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 90×90×7",
+   "a": 90.0,
+   "b": 90.0,
+   "t": 7.0,
+   "kgm": 9.609,
+   "alan": 1224.1,
+   "cevre": 360.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 90×90×8",
+   "a": 90.0,
+   "b": 90.0,
+   "t": 8.0,
+   "kgm": 10.904,
+   "alan": 1389.1,
+   "cevre": 360.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 90×90×9",
+   "a": 90.0,
+   "b": 90.0,
+   "t": 9.0,
+   "kgm": 12.184,
+   "alan": 1552.1,
+   "cevre": 360.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 90×90×10",
+   "a": 90.0,
+   "b": 90.0,
+   "t": 10.0,
+   "kgm": 13.448,
+   "alan": 1713.1,
+   "cevre": 360.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×100×8",
+   "a": 100.0,
+   "b": 100.0,
+   "t": 8.0,
+   "kgm": 12.18,
+   "alan": 1551.5,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×100×10",
+   "a": 100.0,
+   "b": 100.0,
+   "t": 10.0,
+   "kgm": 15.037,
+   "alan": 1915.5,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×100×12",
+   "a": 100.0,
+   "b": 100.0,
+   "t": 12.0,
+   "kgm": 17.832,
+   "alan": 2271.5,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 110×110×10",
+   "a": 110.0,
+   "b": 110.0,
+   "t": 10.0,
+   "kgm": 16.628,
+   "alan": 2118.2,
+   "cevre": 440.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 110×110×12",
+   "a": 110.0,
+   "b": 110.0,
+   "t": 12.0,
+   "kgm": 19.737,
+   "alan": 2514.2,
+   "cevre": 440.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×120×10",
+   "a": 120.0,
+   "b": 120.0,
+   "t": 10.0,
+   "kgm": 18.198,
+   "alan": 2318.2,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×120×11",
+   "a": 120.0,
+   "b": 120.0,
+   "t": 11.0,
+   "kgm": 19.917,
+   "alan": 2537.2,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×120×12",
+   "a": 120.0,
+   "b": 120.0,
+   "t": 12.0,
+   "kgm": 21.621,
+   "alan": 2754.2,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×120×13",
+   "a": 120.0,
+   "b": 120.0,
+   "t": 13.0,
+   "kgm": 23.309,
+   "alan": 2969.2,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×120×15",
+   "a": 120.0,
+   "b": 120.0,
+   "t": 15.0,
+   "kgm": 26.637,
+   "alan": 3393.2,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 130×130×12",
+   "a": 130.0,
+   "b": 130.0,
+   "t": 12.0,
+   "kgm": 23.528,
+   "alan": 2997.2,
+   "cevre": 520.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×150×10",
+   "a": 150.0,
+   "b": 150.0,
+   "t": 10.0,
+   "kgm": 22.982,
+   "alan": 2927.6,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×150×12",
+   "a": 150.0,
+   "b": 150.0,
+   "t": 12.0,
+   "kgm": 27.346,
+   "alan": 3483.6,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×150×14",
+   "a": 150.0,
+   "b": 150.0,
+   "t": 14.0,
+   "kgm": 31.648,
+   "alan": 4031.6,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×150×15",
+   "a": 150.0,
+   "b": 150.0,
+   "t": 15.0,
+   "kgm": 33.776,
+   "alan": 4302.6,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×150×18",
+   "a": 150.0,
+   "b": 150.0,
+   "t": 18.0,
+   "kgm": 40.063,
+   "alan": 5103.6,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 160×160×14",
+   "a": 160.0,
+   "b": 160.0,
+   "t": 14.0,
+   "kgm": 33.874,
+   "alan": 4315.2,
+   "cevre": 640.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 160×160×15",
+   "a": 160.0,
+   "b": 160.0,
+   "t": 15.0,
+   "kgm": 36.159,
+   "alan": 4606.2,
+   "cevre": 640.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 160×160×16",
+   "a": 160.0,
+   "b": 160.0,
+   "t": 16.0,
+   "kgm": 38.427,
+   "alan": 4895.2,
+   "cevre": 640.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 160×160×17",
+   "a": 160.0,
+   "b": 160.0,
+   "t": 17.0,
+   "kgm": 40.68,
+   "alan": 5182.2,
+   "cevre": 640.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×13",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 13.0,
+   "kgm": 35.686,
+   "alan": 4546.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×14",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 14.0,
+   "kgm": 38.3,
+   "alan": 4879.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×15",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 15.0,
+   "kgm": 40.898,
+   "alan": 5210.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×16",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 16.0,
+   "kgm": 43.481,
+   "alan": 5539.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×17",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 17.0,
+   "kgm": 46.048,
+   "alan": 5866.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×18",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 18.0,
+   "kgm": 48.599,
+   "alan": 6191.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×19",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 19.0,
+   "kgm": 51.135,
+   "alan": 6514.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 180×180×20",
+   "a": 180.0,
+   "b": 180.0,
+   "t": 20.0,
+   "kgm": 53.655,
+   "alan": 6835.0,
+   "cevre": 720.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×15",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 15.0,
+   "kgm": 45.608,
+   "alan": 5810.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×16",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 16.0,
+   "kgm": 48.505,
+   "alan": 6179.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×17",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 17.0,
+   "kgm": 51.386,
+   "alan": 6546.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×18",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 18.0,
+   "kgm": 54.251,
+   "alan": 6911.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×19",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 19.0,
+   "kgm": 57.101,
+   "alan": 7274.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×20",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 20.0,
+   "kgm": 59.935,
+   "alan": 7635.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×21",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 21.0,
+   "kgm": 62.753,
+   "alan": 7994.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×22",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 22.0,
+   "kgm": 65.555,
+   "alan": 8351.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×23",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 23.0,
+   "kgm": 68.342,
+   "alan": 8706.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×24",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 24.0,
+   "kgm": 71.113,
+   "alan": 9059.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×25",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 25.0,
+   "kgm": 73.868,
+   "alan": 9410.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×200×26",
+   "a": 200.0,
+   "b": 200.0,
+   "t": 26.0,
+   "kgm": 76.608,
+   "alan": 9759.0,
+   "cevre": 800.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×20",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 20.0,
+   "kgm": 75.635,
+   "alan": 9635.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×21",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 21.0,
+   "kgm": 79.238,
+   "alan": 10094.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×22",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 22.0,
+   "kgm": 82.825,
+   "alan": 10551.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×23",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 23.0,
+   "kgm": 86.397,
+   "alan": 11006.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×24",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 24.0,
+   "kgm": 89.953,
+   "alan": 11459.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×25",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 25.0,
+   "kgm": 93.493,
+   "alan": 11910.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×26",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 26.0,
+   "kgm": 97.018,
+   "alan": 12359.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×27",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 27.0,
+   "kgm": 100.527,
+   "alan": 12806.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×28",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 28.0,
+   "kgm": 104.02,
+   "alan": 13251.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 250×250×35",
+   "a": 250.0,
+   "b": 250.0,
+   "t": 35.0,
+   "kgm": 128.033,
+   "alan": 16310.0,
+   "cevre": 1000.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×80×8",
+   "a": 120.0,
+   "b": 80.0,
+   "t": 8.0,
+   "kgm": 12.16,
+   "alan": 1549.1,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×80×10",
+   "a": 120.0,
+   "b": 80.0,
+   "t": 10.0,
+   "kgm": 15.018,
+   "alan": 1913.1,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 120×80×12",
+   "a": 120.0,
+   "b": 80.0,
+   "t": 12.0,
+   "kgm": 17.812,
+   "alan": 2269.1,
+   "cevre": 400.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×75×9",
+   "a": 150.0,
+   "b": 75.0,
+   "t": 9.0,
+   "kgm": 15.382,
+   "alan": 1959.5,
+   "cevre": 450.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×75×10",
+   "a": 150.0,
+   "b": 75.0,
+   "t": 10.0,
+   "kgm": 17.0,
+   "alan": 2165.5,
+   "cevre": 450.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×75×11",
+   "a": 150.0,
+   "b": 75.0,
+   "t": 11.0,
+   "kgm": 18.601,
+   "alan": 2369.5,
+   "cevre": 450.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×75×12",
+   "a": 150.0,
+   "b": 75.0,
+   "t": 12.0,
+   "kgm": 20.187,
+   "alan": 2571.5,
+   "cevre": 450.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×90×10",
+   "a": 150.0,
+   "b": 90.0,
+   "t": 10.0,
+   "kgm": 18.177,
+   "alan": 2315.5,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×90×11",
+   "a": 150.0,
+   "b": 90.0,
+   "t": 11.0,
+   "kgm": 19.896,
+   "alan": 2534.5,
+   "cevre": 480.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×100×10",
+   "a": 150.0,
+   "b": 100.0,
+   "t": 10.0,
+   "kgm": 18.962,
+   "alan": 2415.5,
+   "cevre": 500.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×100×12",
+   "a": 150.0,
+   "b": 100.0,
+   "t": 12.0,
+   "kgm": 22.542,
+   "alan": 2871.5,
+   "cevre": 500.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 150×100×14",
+   "a": 150.0,
+   "b": 100.0,
+   "t": 14.0,
+   "kgm": 26.058,
+   "alan": 3319.5,
+   "cevre": 500.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×100×10",
+   "a": 200.0,
+   "b": 100.0,
+   "t": 10.0,
+   "kgm": 22.956,
+   "alan": 2924.3,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×100×12",
+   "a": 200.0,
+   "b": 100.0,
+   "t": 12.0,
+   "kgm": 27.32,
+   "alan": 3480.3,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 200×100×14",
+   "a": 200.0,
+   "b": 100.0,
+   "t": 14.0,
+   "kgm": 31.622,
+   "alan": 4028.3,
+   "cevre": 600.0,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "structuralcodes"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 40×25×4",
+   "a": 40,
+   "b": 25,
+   "t": 4,
+   "kgm": 1.915,
+   "alan": 244,
+   "cevre": 130,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 50×30×5",
+   "a": 50,
+   "b": 30,
+   "t": 5,
+   "kgm": 2.944,
+   "alan": 375,
+   "cevre": 160,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 60×40×5",
+   "a": 60,
+   "b": 40,
+   "t": 5,
+   "kgm": 3.729,
+   "alan": 475,
+   "cevre": 200,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 60×40×6",
+   "a": 60,
+   "b": 40,
+   "t": 6,
+   "kgm": 4.427,
+   "alan": 564,
+   "cevre": 200,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 65×50×5",
+   "a": 65,
+   "b": 50,
+   "t": 5,
+   "kgm": 4.317,
+   "alan": 550,
+   "cevre": 230,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 75×50×6",
+   "a": 75,
+   "b": 50,
+   "t": 6,
+   "kgm": 5.605,
+   "alan": 714,
+   "cevre": 250,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 80×40×6",
+   "a": 80,
+   "b": 40,
+   "t": 6,
+   "kgm": 5.369,
+   "alan": 684,
+   "cevre": 240,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 80×60×7",
+   "a": 80,
+   "b": 60,
+   "t": 7,
+   "kgm": 7.308,
+   "alan": 931,
+   "cevre": 280,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×50×8",
+   "a": 100,
+   "b": 50,
+   "t": 8,
+   "kgm": 8.918,
+   "alan": 1136,
+   "cevre": 300,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×65×8",
+   "a": 100,
+   "b": 65,
+   "t": 8,
+   "kgm": 9.86,
+   "alan": 1256,
+   "cevre": 330,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "kosebent",
+   "ad": "L köşebent 100×75×8",
+   "a": 100,
+   "b": 75,
+   "t": 8,
+   "kgm": 10.488,
+   "alan": 1336,
+   "cevre": 350,
+   "std": "EN 10056-1",
+   "boy": [
+    6000
+   ],
+   "kaynak": "formül (radyus ihmal, ~%1 hafif)"
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×3",
+   "b": 10,
+   "t": 3,
+   "kgm": 0.235,
+   "cevre": 26,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×4",
+   "b": 10,
+   "t": 4,
+   "kgm": 0.314,
+   "cevre": 28,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×5",
+   "b": 10,
+   "t": 5,
+   "kgm": 0.392,
+   "cevre": 30,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×6",
+   "b": 10,
+   "t": 6,
+   "kgm": 0.471,
+   "cevre": 32,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×8",
+   "b": 10,
+   "t": 8,
+   "kgm": 0.628,
+   "cevre": 36,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 10×10",
+   "b": 10,
+   "t": 10,
+   "kgm": 0.785,
+   "cevre": 40,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×3",
+   "b": 12,
+   "t": 3,
+   "kgm": 0.283,
+   "cevre": 30,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×4",
+   "b": 12,
+   "t": 4,
+   "kgm": 0.377,
+   "cevre": 32,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×5",
+   "b": 12,
+   "t": 5,
+   "kgm": 0.471,
+   "cevre": 34,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×6",
+   "b": 12,
+   "t": 6,
+   "kgm": 0.565,
+   "cevre": 36,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×8",
+   "b": 12,
+   "t": 8,
+   "kgm": 0.754,
+   "cevre": 40,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×10",
+   "b": 12,
+   "t": 10,
+   "kgm": 0.942,
+   "cevre": 44,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 12×12",
+   "b": 12,
+   "t": 12,
+   "kgm": 1.13,
+   "cevre": 48,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×3",
+   "b": 15,
+   "t": 3,
+   "kgm": 0.353,
+   "cevre": 36,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×4",
+   "b": 15,
+   "t": 4,
+   "kgm": 0.471,
+   "cevre": 38,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×5",
+   "b": 15,
+   "t": 5,
+   "kgm": 0.589,
+   "cevre": 40,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×6",
+   "b": 15,
+   "t": 6,
+   "kgm": 0.706,
+   "cevre": 42,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×8",
+   "b": 15,
+   "t": 8,
+   "kgm": 0.942,
+   "cevre": 46,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×10",
+   "b": 15,
+   "t": 10,
+   "kgm": 1.177,
+   "cevre": 50,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×12",
+   "b": 15,
+   "t": 12,
+   "kgm": 1.413,
+   "cevre": 54,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 15×15",
+   "b": 15,
+   "t": 15,
+   "kgm": 1.766,
+   "cevre": 60,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×3",
+   "b": 20,
+   "t": 3,
+   "kgm": 0.471,
+   "cevre": 46,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×4",
+   "b": 20,
+   "t": 4,
+   "kgm": 0.628,
+   "cevre": 48,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×5",
+   "b": 20,
+   "t": 5,
+   "kgm": 0.785,
+   "cevre": 50,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×6",
+   "b": 20,
+   "t": 6,
+   "kgm": 0.942,
+   "cevre": 52,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×8",
+   "b": 20,
+   "t": 8,
+   "kgm": 1.256,
+   "cevre": 56,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×10",
+   "b": 20,
+   "t": 10,
+   "kgm": 1.57,
+   "cevre": 60,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×12",
+   "b": 20,
+   "t": 12,
+   "kgm": 1.884,
+   "cevre": 64,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×15",
+   "b": 20,
+   "t": 15,
+   "kgm": 2.355,
+   "cevre": 70,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 20×20",
+   "b": 20,
+   "t": 20,
+   "kgm": 3.14,
+   "cevre": 80,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×3",
+   "b": 25,
+   "t": 3,
+   "kgm": 0.589,
+   "cevre": 56,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×4",
+   "b": 25,
+   "t": 4,
+   "kgm": 0.785,
+   "cevre": 58,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×5",
+   "b": 25,
+   "t": 5,
+   "kgm": 0.981,
+   "cevre": 60,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×6",
+   "b": 25,
+   "t": 6,
+   "kgm": 1.177,
+   "cevre": 62,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×8",
+   "b": 25,
+   "t": 8,
+   "kgm": 1.57,
+   "cevre": 66,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×10",
+   "b": 25,
+   "t": 10,
+   "kgm": 1.962,
+   "cevre": 70,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×12",
+   "b": 25,
+   "t": 12,
+   "kgm": 2.355,
+   "cevre": 74,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×15",
+   "b": 25,
+   "t": 15,
+   "kgm": 2.944,
+   "cevre": 80,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×20",
+   "b": 25,
+   "t": 20,
+   "kgm": 3.925,
+   "cevre": 90,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 25×25",
+   "b": 25,
+   "t": 25,
+   "kgm": 4.906,
+   "cevre": 100,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×3",
+   "b": 30,
+   "t": 3,
+   "kgm": 0.706,
+   "cevre": 66,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×4",
+   "b": 30,
+   "t": 4,
+   "kgm": 0.942,
+   "cevre": 68,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×5",
+   "b": 30,
+   "t": 5,
+   "kgm": 1.177,
+   "cevre": 70,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×6",
+   "b": 30,
+   "t": 6,
+   "kgm": 1.413,
+   "cevre": 72,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×8",
+   "b": 30,
+   "t": 8,
+   "kgm": 1.884,
+   "cevre": 76,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×10",
+   "b": 30,
+   "t": 10,
+   "kgm": 2.355,
+   "cevre": 80,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×12",
+   "b": 30,
+   "t": 12,
+   "kgm": 2.826,
+   "cevre": 84,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×15",
+   "b": 30,
+   "t": 15,
+   "kgm": 3.532,
+   "cevre": 90,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×20",
+   "b": 30,
+   "t": 20,
+   "kgm": 4.71,
+   "cevre": 100,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×25",
+   "b": 30,
+   "t": 25,
+   "kgm": 5.887,
+   "cevre": 110,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 30×30",
+   "b": 30,
+   "t": 30,
+   "kgm": 7.065,
+   "cevre": 120,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×3",
+   "b": 35,
+   "t": 3,
+   "kgm": 0.824,
+   "cevre": 76,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×4",
+   "b": 35,
+   "t": 4,
+   "kgm": 1.099,
+   "cevre": 78,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×5",
+   "b": 35,
+   "t": 5,
+   "kgm": 1.374,
+   "cevre": 80,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×6",
+   "b": 35,
+   "t": 6,
+   "kgm": 1.648,
+   "cevre": 82,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×8",
+   "b": 35,
+   "t": 8,
+   "kgm": 2.198,
+   "cevre": 86,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×10",
+   "b": 35,
+   "t": 10,
+   "kgm": 2.747,
+   "cevre": 90,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×12",
+   "b": 35,
+   "t": 12,
+   "kgm": 3.297,
+   "cevre": 94,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×15",
+   "b": 35,
+   "t": 15,
+   "kgm": 4.121,
+   "cevre": 100,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×20",
+   "b": 35,
+   "t": 20,
+   "kgm": 5.495,
+   "cevre": 110,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×25",
+   "b": 35,
+   "t": 25,
+   "kgm": 6.869,
+   "cevre": 120,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 35×30",
+   "b": 35,
+   "t": 30,
+   "kgm": 8.242,
+   "cevre": 130,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×3",
+   "b": 40,
+   "t": 3,
+   "kgm": 0.942,
+   "cevre": 86,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×4",
+   "b": 40,
+   "t": 4,
+   "kgm": 1.256,
+   "cevre": 88,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×5",
+   "b": 40,
+   "t": 5,
+   "kgm": 1.57,
+   "cevre": 90,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×6",
+   "b": 40,
+   "t": 6,
+   "kgm": 1.884,
+   "cevre": 92,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×8",
+   "b": 40,
+   "t": 8,
+   "kgm": 2.512,
+   "cevre": 96,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×10",
+   "b": 40,
+   "t": 10,
+   "kgm": 3.14,
+   "cevre": 100,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×12",
+   "b": 40,
+   "t": 12,
+   "kgm": 3.768,
+   "cevre": 104,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×15",
+   "b": 40,
+   "t": 15,
+   "kgm": 4.71,
+   "cevre": 110,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×20",
+   "b": 40,
+   "t": 20,
+   "kgm": 6.28,
+   "cevre": 120,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×25",
+   "b": 40,
+   "t": 25,
+   "kgm": 7.85,
+   "cevre": 130,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×30",
+   "b": 40,
+   "t": 30,
+   "kgm": 9.42,
+   "cevre": 140,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 40×40",
+   "b": 40,
+   "t": 40,
+   "kgm": 12.56,
+   "cevre": 160,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×3",
+   "b": 45,
+   "t": 3,
+   "kgm": 1.06,
+   "cevre": 96,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×4",
+   "b": 45,
+   "t": 4,
+   "kgm": 1.413,
+   "cevre": 98,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×5",
+   "b": 45,
+   "t": 5,
+   "kgm": 1.766,
+   "cevre": 100,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×6",
+   "b": 45,
+   "t": 6,
+   "kgm": 2.119,
+   "cevre": 102,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×8",
+   "b": 45,
+   "t": 8,
+   "kgm": 2.826,
+   "cevre": 106,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×10",
+   "b": 45,
+   "t": 10,
+   "kgm": 3.532,
+   "cevre": 110,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×12",
+   "b": 45,
+   "t": 12,
+   "kgm": 4.239,
+   "cevre": 114,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×15",
+   "b": 45,
+   "t": 15,
+   "kgm": 5.299,
+   "cevre": 120,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×20",
+   "b": 45,
+   "t": 20,
+   "kgm": 7.065,
+   "cevre": 130,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×25",
+   "b": 45,
+   "t": 25,
+   "kgm": 8.831,
+   "cevre": 140,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×30",
+   "b": 45,
+   "t": 30,
+   "kgm": 10.597,
+   "cevre": 150,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 45×40",
+   "b": 45,
+   "t": 40,
+   "kgm": 14.13,
+   "cevre": 170,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×3",
+   "b": 50,
+   "t": 3,
+   "kgm": 1.177,
+   "cevre": 106,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×4",
+   "b": 50,
+   "t": 4,
+   "kgm": 1.57,
+   "cevre": 108,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×5",
+   "b": 50,
+   "t": 5,
+   "kgm": 1.962,
+   "cevre": 110,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×6",
+   "b": 50,
+   "t": 6,
+   "kgm": 2.355,
+   "cevre": 112,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×8",
+   "b": 50,
+   "t": 8,
+   "kgm": 3.14,
+   "cevre": 116,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×10",
+   "b": 50,
+   "t": 10,
+   "kgm": 3.925,
+   "cevre": 120,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×12",
+   "b": 50,
+   "t": 12,
+   "kgm": 4.71,
+   "cevre": 124,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×15",
+   "b": 50,
+   "t": 15,
+   "kgm": 5.887,
+   "cevre": 130,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×20",
+   "b": 50,
+   "t": 20,
+   "kgm": 7.85,
+   "cevre": 140,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×25",
+   "b": 50,
+   "t": 25,
+   "kgm": 9.812,
+   "cevre": 150,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×30",
+   "b": 50,
+   "t": 30,
+   "kgm": 11.775,
+   "cevre": 160,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×40",
+   "b": 50,
+   "t": 40,
+   "kgm": 15.7,
+   "cevre": 180,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 50×50",
+   "b": 50,
+   "t": 50,
+   "kgm": 19.625,
+   "cevre": 200,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×3",
+   "b": 60,
+   "t": 3,
+   "kgm": 1.413,
+   "cevre": 126,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×4",
+   "b": 60,
+   "t": 4,
+   "kgm": 1.884,
+   "cevre": 128,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×5",
+   "b": 60,
+   "t": 5,
+   "kgm": 2.355,
+   "cevre": 130,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×6",
+   "b": 60,
+   "t": 6,
+   "kgm": 2.826,
+   "cevre": 132,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×8",
+   "b": 60,
+   "t": 8,
+   "kgm": 3.768,
+   "cevre": 136,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×10",
+   "b": 60,
+   "t": 10,
+   "kgm": 4.71,
+   "cevre": 140,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×12",
+   "b": 60,
+   "t": 12,
+   "kgm": 5.652,
+   "cevre": 144,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×15",
+   "b": 60,
+   "t": 15,
+   "kgm": 7.065,
+   "cevre": 150,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×20",
+   "b": 60,
+   "t": 20,
+   "kgm": 9.42,
+   "cevre": 160,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×25",
+   "b": 60,
+   "t": 25,
+   "kgm": 11.775,
+   "cevre": 170,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×30",
+   "b": 60,
+   "t": 30,
+   "kgm": 14.13,
+   "cevre": 180,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×40",
+   "b": 60,
+   "t": 40,
+   "kgm": 18.84,
+   "cevre": 200,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 60×50",
+   "b": 60,
+   "t": 50,
+   "kgm": 23.55,
+   "cevre": 220,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×3",
+   "b": 70,
+   "t": 3,
+   "kgm": 1.648,
+   "cevre": 146,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×4",
+   "b": 70,
+   "t": 4,
+   "kgm": 2.198,
+   "cevre": 148,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×5",
+   "b": 70,
+   "t": 5,
+   "kgm": 2.747,
+   "cevre": 150,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×6",
+   "b": 70,
+   "t": 6,
+   "kgm": 3.297,
+   "cevre": 152,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×8",
+   "b": 70,
+   "t": 8,
+   "kgm": 4.396,
+   "cevre": 156,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×10",
+   "b": 70,
+   "t": 10,
+   "kgm": 5.495,
+   "cevre": 160,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×12",
+   "b": 70,
+   "t": 12,
+   "kgm": 6.594,
+   "cevre": 164,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×15",
+   "b": 70,
+   "t": 15,
+   "kgm": 8.242,
+   "cevre": 170,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×20",
+   "b": 70,
+   "t": 20,
+   "kgm": 10.99,
+   "cevre": 180,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×25",
+   "b": 70,
+   "t": 25,
+   "kgm": 13.737,
+   "cevre": 190,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×30",
+   "b": 70,
+   "t": 30,
+   "kgm": 16.485,
+   "cevre": 200,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×40",
+   "b": 70,
+   "t": 40,
+   "kgm": 21.98,
+   "cevre": 220,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 70×50",
+   "b": 70,
+   "t": 50,
+   "kgm": 27.475,
+   "cevre": 240,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×3",
+   "b": 80,
+   "t": 3,
+   "kgm": 1.884,
+   "cevre": 166,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×4",
+   "b": 80,
+   "t": 4,
+   "kgm": 2.512,
+   "cevre": 168,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×5",
+   "b": 80,
+   "t": 5,
+   "kgm": 3.14,
+   "cevre": 170,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×6",
+   "b": 80,
+   "t": 6,
+   "kgm": 3.768,
+   "cevre": 172,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×8",
+   "b": 80,
+   "t": 8,
+   "kgm": 5.024,
+   "cevre": 176,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×10",
+   "b": 80,
+   "t": 10,
+   "kgm": 6.28,
+   "cevre": 180,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×12",
+   "b": 80,
+   "t": 12,
+   "kgm": 7.536,
+   "cevre": 184,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×15",
+   "b": 80,
+   "t": 15,
+   "kgm": 9.42,
+   "cevre": 190,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×20",
+   "b": 80,
+   "t": 20,
+   "kgm": 12.56,
+   "cevre": 200,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×25",
+   "b": 80,
+   "t": 25,
+   "kgm": 15.7,
+   "cevre": 210,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×30",
+   "b": 80,
+   "t": 30,
+   "kgm": 18.84,
+   "cevre": 220,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×40",
+   "b": 80,
+   "t": 40,
+   "kgm": 25.12,
+   "cevre": 240,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 80×50",
+   "b": 80,
+   "t": 50,
+   "kgm": 31.4,
+   "cevre": 260,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×3",
+   "b": 90,
+   "t": 3,
+   "kgm": 2.119,
+   "cevre": 186,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×4",
+   "b": 90,
+   "t": 4,
+   "kgm": 2.826,
+   "cevre": 188,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×5",
+   "b": 90,
+   "t": 5,
+   "kgm": 3.532,
+   "cevre": 190,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×6",
+   "b": 90,
+   "t": 6,
+   "kgm": 4.239,
+   "cevre": 192,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×8",
+   "b": 90,
+   "t": 8,
+   "kgm": 5.652,
+   "cevre": 196,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×10",
+   "b": 90,
+   "t": 10,
+   "kgm": 7.065,
+   "cevre": 200,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×12",
+   "b": 90,
+   "t": 12,
+   "kgm": 8.478,
+   "cevre": 204,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×15",
+   "b": 90,
+   "t": 15,
+   "kgm": 10.597,
+   "cevre": 210,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×20",
+   "b": 90,
+   "t": 20,
+   "kgm": 14.13,
+   "cevre": 220,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×25",
+   "b": 90,
+   "t": 25,
+   "kgm": 17.662,
+   "cevre": 230,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×30",
+   "b": 90,
+   "t": 30,
+   "kgm": 21.195,
+   "cevre": 240,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×40",
+   "b": 90,
+   "t": 40,
+   "kgm": 28.26,
+   "cevre": 260,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 90×50",
+   "b": 90,
+   "t": 50,
+   "kgm": 35.325,
+   "cevre": 280,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×3",
+   "b": 100,
+   "t": 3,
+   "kgm": 2.355,
+   "cevre": 206,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×4",
+   "b": 100,
+   "t": 4,
+   "kgm": 3.14,
+   "cevre": 208,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×5",
+   "b": 100,
+   "t": 5,
+   "kgm": 3.925,
+   "cevre": 210,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×6",
+   "b": 100,
+   "t": 6,
+   "kgm": 4.71,
+   "cevre": 212,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×8",
+   "b": 100,
+   "t": 8,
+   "kgm": 6.28,
+   "cevre": 216,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×10",
+   "b": 100,
+   "t": 10,
+   "kgm": 7.85,
+   "cevre": 220,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×12",
+   "b": 100,
+   "t": 12,
+   "kgm": 9.42,
+   "cevre": 224,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×15",
+   "b": 100,
+   "t": 15,
+   "kgm": 11.775,
+   "cevre": 230,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×20",
+   "b": 100,
+   "t": 20,
+   "kgm": 15.7,
+   "cevre": 240,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×25",
+   "b": 100,
+   "t": 25,
+   "kgm": 19.625,
+   "cevre": 250,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×30",
+   "b": 100,
+   "t": 30,
+   "kgm": 23.55,
+   "cevre": 260,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×40",
+   "b": 100,
+   "t": 40,
+   "kgm": 31.4,
+   "cevre": 280,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 100×50",
+   "b": 100,
+   "t": 50,
+   "kgm": 39.25,
+   "cevre": 300,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×3",
+   "b": 120,
+   "t": 3,
+   "kgm": 2.826,
+   "cevre": 246,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×4",
+   "b": 120,
+   "t": 4,
+   "kgm": 3.768,
+   "cevre": 248,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×5",
+   "b": 120,
+   "t": 5,
+   "kgm": 4.71,
+   "cevre": 250,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×6",
+   "b": 120,
+   "t": 6,
+   "kgm": 5.652,
+   "cevre": 252,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×8",
+   "b": 120,
+   "t": 8,
+   "kgm": 7.536,
+   "cevre": 256,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×10",
+   "b": 120,
+   "t": 10,
+   "kgm": 9.42,
+   "cevre": 260,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×12",
+   "b": 120,
+   "t": 12,
+   "kgm": 11.304,
+   "cevre": 264,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×15",
+   "b": 120,
+   "t": 15,
+   "kgm": 14.13,
+   "cevre": 270,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×20",
+   "b": 120,
+   "t": 20,
+   "kgm": 18.84,
+   "cevre": 280,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×25",
+   "b": 120,
+   "t": 25,
+   "kgm": 23.55,
+   "cevre": 290,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×30",
+   "b": 120,
+   "t": 30,
+   "kgm": 28.26,
+   "cevre": 300,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×40",
+   "b": 120,
+   "t": 40,
+   "kgm": 37.68,
+   "cevre": 320,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 120×50",
+   "b": 120,
+   "t": 50,
+   "kgm": 47.1,
+   "cevre": 340,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×3",
+   "b": 150,
+   "t": 3,
+   "kgm": 3.532,
+   "cevre": 306,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×4",
+   "b": 150,
+   "t": 4,
+   "kgm": 4.71,
+   "cevre": 308,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×5",
+   "b": 150,
+   "t": 5,
+   "kgm": 5.887,
+   "cevre": 310,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×6",
+   "b": 150,
+   "t": 6,
+   "kgm": 7.065,
+   "cevre": 312,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×8",
+   "b": 150,
+   "t": 8,
+   "kgm": 9.42,
+   "cevre": 316,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×10",
+   "b": 150,
+   "t": 10,
+   "kgm": 11.775,
+   "cevre": 320,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×12",
+   "b": 150,
+   "t": 12,
+   "kgm": 14.13,
+   "cevre": 324,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×15",
+   "b": 150,
+   "t": 15,
+   "kgm": 17.662,
+   "cevre": 330,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×20",
+   "b": 150,
+   "t": 20,
+   "kgm": 23.55,
+   "cevre": 340,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×25",
+   "b": 150,
+   "t": 25,
+   "kgm": 29.437,
+   "cevre": 350,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×30",
+   "b": 150,
+   "t": 30,
+   "kgm": 35.325,
+   "cevre": 360,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×40",
+   "b": 150,
+   "t": 40,
+   "kgm": 47.1,
+   "cevre": 380,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 150×50",
+   "b": 150,
+   "t": 50,
+   "kgm": 58.875,
+   "cevre": 400,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×3",
+   "b": 200,
+   "t": 3,
+   "kgm": 4.71,
+   "cevre": 406,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×4",
+   "b": 200,
+   "t": 4,
+   "kgm": 6.28,
+   "cevre": 408,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×5",
+   "b": 200,
+   "t": 5,
+   "kgm": 7.85,
+   "cevre": 410,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×6",
+   "b": 200,
+   "t": 6,
+   "kgm": 9.42,
+   "cevre": 412,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×8",
+   "b": 200,
+   "t": 8,
+   "kgm": 12.56,
+   "cevre": 416,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×10",
+   "b": 200,
+   "t": 10,
+   "kgm": 15.7,
+   "cevre": 420,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×12",
+   "b": 200,
+   "t": 12,
+   "kgm": 18.84,
+   "cevre": 424,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×15",
+   "b": 200,
+   "t": 15,
+   "kgm": 23.55,
+   "cevre": 430,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×20",
+   "b": 200,
+   "t": 20,
+   "kgm": 31.4,
+   "cevre": 440,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×25",
+   "b": 200,
+   "t": 25,
+   "kgm": 39.25,
+   "cevre": 450,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×30",
+   "b": 200,
+   "t": 30,
+   "kgm": 47.1,
+   "cevre": 460,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×40",
+   "b": 200,
+   "t": 40,
+   "kgm": 62.8,
+   "cevre": 480,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "lama",
+   "ad": "Lama 200×50",
+   "b": 200,
+   "t": 50,
+   "kgm": 78.5,
+   "cevre": 500,
+   "std": "EN 10058",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø6",
+   "d": 6,
+   "kgm": 0.222,
+   "cevre": 18.8,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø8",
+   "d": 8,
+   "kgm": 0.395,
+   "cevre": 25.1,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø10",
+   "d": 10,
+   "kgm": 0.617,
+   "cevre": 31.4,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø12",
+   "d": 12,
+   "kgm": 0.888,
+   "cevre": 37.7,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø14",
+   "d": 14,
+   "kgm": 1.208,
+   "cevre": 44.0,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø16",
+   "d": 16,
+   "kgm": 1.578,
+   "cevre": 50.3,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø18",
+   "d": 18,
+   "kgm": 1.998,
+   "cevre": 56.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø20",
+   "d": 20,
+   "kgm": 2.466,
+   "cevre": 62.8,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø22",
+   "d": 22,
+   "kgm": 2.984,
+   "cevre": 69.1,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø25",
+   "d": 25,
+   "kgm": 3.853,
+   "cevre": 78.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø28",
+   "d": 28,
+   "kgm": 4.834,
+   "cevre": 88.0,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø30",
+   "d": 30,
+   "kgm": 5.549,
+   "cevre": 94.2,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø32",
+   "d": 32,
+   "kgm": 6.313,
+   "cevre": 100.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø35",
+   "d": 35,
+   "kgm": 7.553,
+   "cevre": 110.0,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø40",
+   "d": 40,
+   "kgm": 9.865,
+   "cevre": 125.7,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø45",
+   "d": 45,
+   "kgm": 12.485,
+   "cevre": 141.4,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø50",
+   "d": 50,
+   "kgm": 15.413,
+   "cevre": 157.1,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø55",
+   "d": 55,
+   "kgm": 18.65,
+   "cevre": 172.8,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø60",
+   "d": 60,
+   "kgm": 22.195,
+   "cevre": 188.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø65",
+   "d": 65,
+   "kgm": 26.049,
+   "cevre": 204.2,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø70",
+   "d": 70,
+   "kgm": 30.21,
+   "cevre": 219.9,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø75",
+   "d": 75,
+   "kgm": 34.68,
+   "cevre": 235.6,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø80",
+   "d": 80,
+   "kgm": 39.458,
+   "cevre": 251.3,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø85",
+   "d": 85,
+   "kgm": 44.545,
+   "cevre": 267.0,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø90",
+   "d": 90,
+   "kgm": 49.94,
+   "cevre": 282.7,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø95",
+   "d": 95,
+   "kgm": 55.643,
+   "cevre": 298.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø100",
+   "d": 100,
+   "kgm": 61.654,
+   "cevre": 314.2,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø110",
+   "d": 110,
+   "kgm": 74.601,
+   "cevre": 345.6,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø120",
+   "d": 120,
+   "kgm": 88.781,
+   "cevre": 377.0,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø130",
+   "d": 130,
+   "kgm": 104.195,
+   "cevre": 408.4,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø140",
+   "d": 140,
+   "kgm": 120.841,
+   "cevre": 439.8,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø150",
+   "d": 150,
+   "kgm": 138.721,
+   "cevre": 471.2,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø160",
+   "d": 160,
+   "kgm": 157.834,
+   "cevre": 502.7,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø170",
+   "d": 170,
+   "kgm": 178.179,
+   "cevre": 534.1,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø180",
+   "d": 180,
+   "kgm": 199.758,
+   "cevre": 565.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø190",
+   "d": 190,
+   "kgm": 222.57,
+   "cevre": 596.9,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø200",
+   "d": 200,
+   "kgm": 246.615,
+   "cevre": 628.3,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø220",
+   "d": 220,
+   "kgm": 298.404,
+   "cevre": 691.2,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø250",
+   "d": 250,
+   "kgm": 385.336,
+   "cevre": 785.4,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø280",
+   "d": 280,
+   "kgm": 483.365,
+   "cevre": 879.6,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø300",
+   "d": 300,
+   "kgm": 554.884,
+   "cevre": 942.5,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø350",
+   "d": 350,
+   "kgm": 755.259,
+   "cevre": 1099.6,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "yuvarlak",
+   "ad": "Yuvarlak Ø400",
+   "d": 400,
+   "kgm": 986.46,
+   "cevre": 1256.6,
+   "std": "EN 10060",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 8×8",
+   "a": 8,
+   "kgm": 0.502,
+   "cevre": 32,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 10×10",
+   "a": 10,
+   "kgm": 0.785,
+   "cevre": 40,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 12×12",
+   "a": 12,
+   "kgm": 1.13,
+   "cevre": 48,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 14×14",
+   "a": 14,
+   "kgm": 1.539,
+   "cevre": 56,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 16×16",
+   "a": 16,
+   "kgm": 2.01,
+   "cevre": 64,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 18×18",
+   "a": 18,
+   "kgm": 2.543,
+   "cevre": 72,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 20×20",
+   "a": 20,
+   "kgm": 3.14,
+   "cevre": 80,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 22×22",
+   "a": 22,
+   "kgm": 3.799,
+   "cevre": 88,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 25×25",
+   "a": 25,
+   "kgm": 4.906,
+   "cevre": 100,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 30×30",
+   "a": 30,
+   "kgm": 7.065,
+   "cevre": 120,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 35×35",
+   "a": 35,
+   "kgm": 9.616,
+   "cevre": 140,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 40×40",
+   "a": 40,
+   "kgm": 12.56,
+   "cevre": 160,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 45×45",
+   "a": 45,
+   "kgm": 15.896,
+   "cevre": 180,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 50×50",
+   "a": 50,
+   "kgm": 19.625,
+   "cevre": 200,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 55×55",
+   "a": 55,
+   "kgm": 23.746,
+   "cevre": 220,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 60×60",
+   "a": 60,
+   "kgm": 28.26,
+   "cevre": 240,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 65×65",
+   "a": 65,
+   "kgm": 33.166,
+   "cevre": 260,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 70×70",
+   "a": 70,
+   "kgm": 38.465,
+   "cevre": 280,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 75×75",
+   "a": 75,
+   "kgm": 44.156,
+   "cevre": 300,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 80×80",
+   "a": 80,
+   "kgm": 50.24,
+   "cevre": 320,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 85×85",
+   "a": 85,
+   "kgm": 56.716,
+   "cevre": 340,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 90×90",
+   "a": 90,
+   "kgm": 63.585,
+   "cevre": 360,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "kare",
+   "ad": "Kare 100×100",
+   "a": 100,
+   "kgm": 78.5,
+   "cevre": 400,
+   "std": "EN 10059",
+   "boy": [
+    6000
+   ]
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 80",
+   "tip": "IPE",
+   "h": 80,
+   "kgm": 6.0,
+   "cevre": 336,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 80.0,
+   "b": 46.0,
+   "tw": 3.8,
+   "tf": 5.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 100",
+   "tip": "IPE",
+   "h": 100,
+   "kgm": 8.1,
+   "cevre": 412,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 100.0,
+   "b": 55.0,
+   "tw": 4.1,
+   "tf": 5.7
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 120",
+   "tip": "IPE",
+   "h": 120,
+   "kgm": 10.4,
+   "cevre": 487,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 120.0,
+   "b": 64.0,
+   "tw": 4.4,
+   "tf": 6.3
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 140",
+   "tip": "IPE",
+   "h": 140,
+   "kgm": 12.9,
+   "cevre": 563,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 140.0,
+   "b": 73.0,
+   "tw": 4.7,
+   "tf": 6.9
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 160",
+   "tip": "IPE",
+   "h": 160,
+   "kgm": 15.8,
+   "cevre": 638,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 160.0,
+   "b": 82.0,
+   "tw": 5.0,
+   "tf": 7.4
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 180",
+   "tip": "IPE",
+   "h": 180,
+   "kgm": 18.8,
+   "cevre": 713,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 180.0,
+   "b": 91.0,
+   "tw": 5.3,
+   "tf": 8.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 200",
+   "tip": "IPE",
+   "h": 200,
+   "kgm": 22.4,
+   "cevre": 789,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 200.0,
+   "b": 100.0,
+   "tw": 5.6,
+   "tf": 8.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 220",
+   "tip": "IPE",
+   "h": 220,
+   "kgm": 26.2,
+   "cevre": 868,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 220.0,
+   "b": 110.0,
+   "tw": 5.9,
+   "tf": 9.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 240",
+   "tip": "IPE",
+   "h": 240,
+   "kgm": 30.7,
+   "cevre": 948,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 240.0,
+   "b": 120.0,
+   "tw": 6.2,
+   "tf": 9.8
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 270",
+   "tip": "IPE",
+   "h": 270,
+   "kgm": 36.1,
+   "cevre": 1067,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 270.0,
+   "b": 135.0,
+   "tw": 6.6,
+   "tf": 10.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 300",
+   "tip": "IPE",
+   "h": 300,
+   "kgm": 42.2,
+   "cevre": 1186,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 300.0,
+   "b": 150.0,
+   "tw": 7.1,
+   "tf": 10.7
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 330",
+   "tip": "IPE",
+   "h": 330,
+   "kgm": 49.1,
+   "cevre": 1285,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 330.0,
+   "b": 160.0,
+   "tw": 7.5,
+   "tf": 11.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 360",
+   "tip": "IPE",
+   "h": 360,
+   "kgm": 57.1,
+   "cevre": 1384,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 360.0,
+   "b": 170.0,
+   "tw": 8.0,
+   "tf": 12.7
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 400",
+   "tip": "IPE",
+   "h": 400,
+   "kgm": 66.3,
+   "cevre": 1503,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 400.0,
+   "b": 180.0,
+   "tw": 8.6,
+   "tf": 13.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 450",
+   "tip": "IPE",
+   "h": 450,
+   "kgm": 77.6,
+   "cevre": 1641,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 450.0,
+   "b": 190.0,
+   "tw": 9.4,
+   "tf": 14.6
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 500",
+   "tip": "IPE",
+   "h": 500,
+   "kgm": 90.7,
+   "cevre": 1780,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 500.0,
+   "b": 200.0,
+   "tw": 10.2,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 550",
+   "tip": "IPE",
+   "h": 550,
+   "kgm": 106.0,
+   "cevre": 1918,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 550.0,
+   "b": 210.0,
+   "tw": 11.1,
+   "tf": 17.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (IPE) 600",
+   "tip": "IPE",
+   "h": 600,
+   "kgm": 122.0,
+   "cevre": 2056,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 600.0,
+   "b": 220.0,
+   "tw": 12.0,
+   "tf": 19.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 80",
+   "tip": "IPN",
+   "h": 80,
+   "kgm": 5.94,
+   "cevre": 320,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 80.0,
+   "b": 42.0,
+   "tw": 3.9,
+   "tf": 5.9
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 100",
+   "tip": "IPN",
+   "h": 100,
+   "kgm": 8.34,
+   "cevre": 391,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 100.0,
+   "b": 50.0,
+   "tw": 4.5,
+   "tf": 6.8
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 120",
+   "tip": "IPN",
+   "h": 120,
+   "kgm": 11.1,
+   "cevre": 462,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 120.0,
+   "b": 58.0,
+   "tw": 5.1,
+   "tf": 7.7
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 140",
+   "tip": "IPN",
+   "h": 140,
+   "kgm": 14.3,
+   "cevre": 533,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 140.0,
+   "b": 66.0,
+   "tw": 5.7,
+   "tf": 8.6
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 160",
+   "tip": "IPN",
+   "h": 160,
+   "kgm": 17.9,
+   "cevre": 603,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 160.0,
+   "b": 74.0,
+   "tw": 6.3,
+   "tf": 9.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 180",
+   "tip": "IPN",
+   "h": 180,
+   "kgm": 21.9,
+   "cevre": 674,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 180.0,
+   "b": 82.0,
+   "tw": 6.9,
+   "tf": 10.4
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 200",
+   "tip": "IPN",
+   "h": 200,
+   "kgm": 26.2,
+   "cevre": 745,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 200.0,
+   "b": 90.0,
+   "tw": 7.5,
+   "tf": 11.3
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 220",
+   "tip": "IPN",
+   "h": 220,
+   "kgm": 31.1,
+   "cevre": 816,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 220.0,
+   "b": 98.0,
+   "tw": 8.1,
+   "tf": 12.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 240",
+   "tip": "IPN",
+   "h": 240,
+   "kgm": 36.2,
+   "cevre": 887,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 240.0,
+   "b": 106.0,
+   "tw": 8.7,
+   "tf": 13.1
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 260",
+   "tip": "IPN",
+   "h": 260,
+   "kgm": 41.9,
+   "cevre": 953,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 260.0,
+   "b": 113.0,
+   "tw": 9.4,
+   "tf": 14.1
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 280",
+   "tip": "IPN",
+   "h": 280,
+   "kgm": 47.9,
+   "cevre": 1016,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 280.0,
+   "b": 119.0,
+   "tw": 10.1,
+   "tf": 15.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 300",
+   "tip": "IPN",
+   "h": 300,
+   "kgm": 54.2,
+   "cevre": 1078,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 300.0,
+   "b": 125.0,
+   "tw": 10.8,
+   "tf": 16.2
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 320",
+   "tip": "IPN",
+   "h": 320,
+   "kgm": 61.0,
+   "cevre": 1141,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 320.0,
+   "b": 131.0,
+   "tw": 11.5,
+   "tf": 17.3
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 340",
+   "tip": "IPN",
+   "h": 340,
+   "kgm": 68.0,
+   "cevre": 1204,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 340.0,
+   "b": 137.0,
+   "tw": 12.2,
+   "tf": 18.3
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 360",
+   "tip": "IPN",
+   "h": 360,
+   "kgm": 76.1,
+   "cevre": 1266,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 360.0,
+   "b": 143.0,
+   "tw": 13.0,
+   "tf": 19.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 380",
+   "tip": "IPN",
+   "h": 380,
+   "kgm": 84.0,
+   "cevre": 1329,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 380.0,
+   "b": 149.0,
+   "tw": 13.7,
+   "tf": 20.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 400",
+   "tip": "IPN",
+   "h": 400,
+   "kgm": 92.4,
+   "cevre": 1391,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 400.0,
+   "b": 155.0,
+   "tw": 14.4,
+   "tf": 21.6
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 450",
+   "tip": "IPN",
+   "h": 450,
+   "kgm": 115.0,
+   "cevre": 1548,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 450.0,
+   "b": 170.0,
+   "tw": 16.2,
+   "tf": 24.3
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 500",
+   "tip": "IPN",
+   "h": 500,
+   "kgm": 141.0,
+   "cevre": 1704,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 500.0,
+   "b": 185.0,
+   "tw": 18.0,
+   "tf": 27.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 550",
+   "tip": "IPN",
+   "h": 550,
+   "kgm": 166.461,
+   "cevre": 1862,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 550.0,
+   "b": 200.0,
+   "tw": 19.0,
+   "tf": 30.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "I profil (NPI) 600",
+   "tip": "IPN",
+   "h": 600,
+   "kgm": 199.267,
+   "cevre": 2017,
+   "std": "DIN 1025-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 600.0,
+   "b": 215.0,
+   "tw": 21.6,
+   "tf": 32.4
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 50",
+   "tip": "UPN",
+   "h": 50,
+   "kgm": 5.59,
+   "cevre": 242,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 50.0,
+   "b": 38.0,
+   "tw": 5.0,
+   "tf": 7.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 65",
+   "tip": "UPN",
+   "h": 65,
+   "kgm": 7.09,
+   "cevre": 287,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 65.0,
+   "b": 42.0,
+   "tw": 5.5,
+   "tf": 7.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 80",
+   "tip": "UPN",
+   "h": 80,
+   "kgm": 8.64,
+   "cevre": 328,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 80.0,
+   "b": 45.0,
+   "tw": 6.0,
+   "tf": 8.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 100",
+   "tip": "UPN",
+   "h": 100,
+   "kgm": 10.6,
+   "cevre": 388,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 100.0,
+   "b": 50.0,
+   "tw": 6.0,
+   "tf": 8.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 120",
+   "tip": "UPN",
+   "h": 120,
+   "kgm": 13.4,
+   "cevre": 446,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 120.0,
+   "b": 55.0,
+   "tw": 7.0,
+   "tf": 9.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 140",
+   "tip": "UPN",
+   "h": 140,
+   "kgm": 16.0,
+   "cevre": 506,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 140.0,
+   "b": 60.0,
+   "tw": 7.0,
+   "tf": 10.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 160",
+   "tip": "UPN",
+   "h": 160,
+   "kgm": 18.8,
+   "cevre": 565,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 160.0,
+   "b": 65.0,
+   "tw": 7.5,
+   "tf": 10.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 180",
+   "tip": "UPN",
+   "h": 180,
+   "kgm": 22.0,
+   "cevre": 624,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 180.0,
+   "b": 70.0,
+   "tw": 8.0,
+   "tf": 11.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 200",
+   "tip": "UPN",
+   "h": 200,
+   "kgm": 25.3,
+   "cevre": 683,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 200.0,
+   "b": 75.0,
+   "tw": 8.5,
+   "tf": 11.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 220",
+   "tip": "UPN",
+   "h": 220,
+   "kgm": 29.4,
+   "cevre": 742,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 220.0,
+   "b": 80.0,
+   "tw": 9.0,
+   "tf": 12.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 240",
+   "tip": "UPN",
+   "h": 240,
+   "kgm": 33.2,
+   "cevre": 801,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 240.0,
+   "b": 85.0,
+   "tw": 9.5,
+   "tf": 13.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 260",
+   "tip": "UPN",
+   "h": 260,
+   "kgm": 37.9,
+   "cevre": 860,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 260.0,
+   "b": 90.0,
+   "tw": 10.0,
+   "tf": 14.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 280",
+   "tip": "UPN",
+   "h": 280,
+   "kgm": 41.8,
+   "cevre": 920,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 280.0,
+   "b": 95.0,
+   "tw": 10.0,
+   "tf": 15.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 300",
+   "tip": "UPN",
+   "h": 300,
+   "kgm": 46.2,
+   "cevre": 980,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 300.0,
+   "b": 100.0,
+   "tw": 10.0,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 320",
+   "tip": "UPN",
+   "h": 320,
+   "kgm": 59.5,
+   "cevre": 1012,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 320.0,
+   "b": 100.0,
+   "tw": 14.0,
+   "tf": 17.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 350",
+   "tip": "UPN",
+   "h": 350,
+   "kgm": 60.6,
+   "cevre": 1072,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 350.0,
+   "b": 100.0,
+   "tw": 14.0,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 380",
+   "tip": "UPN",
+   "h": 380,
+   "kgm": 63.1,
+   "cevre": 1141,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 380.0,
+   "b": 102.0,
+   "tw": 13.5,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (NPU) 400",
+   "tip": "UPN",
+   "h": 400,
+   "kgm": 71.8,
+   "cevre": 1212,
+   "std": "DIN 1026-1",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 400.0,
+   "b": 110.0,
+   "tw": 14.0,
+   "tf": 18.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 80",
+   "tip": "UPE",
+   "h": 80,
+   "kgm": 7.906,
+   "cevre": 352,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 80.0,
+   "b": 50.0,
+   "tw": 4.0,
+   "tf": 7.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 100",
+   "tip": "UPE",
+   "h": 100,
+   "kgm": 9.818,
+   "cevre": 411,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 100.0,
+   "b": 55.0,
+   "tw": 4.5,
+   "tf": 7.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 120",
+   "tip": "UPE",
+   "h": 120,
+   "kgm": 12.106,
+   "cevre": 470,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 120.0,
+   "b": 60.0,
+   "tw": 5.0,
+   "tf": 8.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 140",
+   "tip": "UPE",
+   "h": 140,
+   "kgm": 14.461,
+   "cevre": 530,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 140.0,
+   "b": 65.0,
+   "tw": 5.0,
+   "tf": 9.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 160",
+   "tip": "UPE",
+   "h": 160,
+   "kgm": 17.016,
+   "cevre": 589,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 160.0,
+   "b": 70.0,
+   "tw": 5.5,
+   "tf": 9.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 180",
+   "tip": "UPE",
+   "h": 180,
+   "kgm": 19.717,
+   "cevre": 649,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 180.0,
+   "b": 75.0,
+   "tw": 5.5,
+   "tf": 10.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 200",
+   "tip": "UPE",
+   "h": 200,
+   "kgm": 22.773,
+   "cevre": 708,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 200.0,
+   "b": 80.0,
+   "tw": 6.0,
+   "tf": 11.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 220",
+   "tip": "UPE",
+   "h": 220,
+   "kgm": 26.588,
+   "cevre": 767,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 220.0,
+   "b": 85.0,
+   "tw": 6.5,
+   "tf": 12.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 240",
+   "tip": "UPE",
+   "h": 240,
+   "kgm": 30.239,
+   "cevre": 826,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 240.0,
+   "b": 90.0,
+   "tw": 7.0,
+   "tf": 12.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 270",
+   "tip": "UPE",
+   "h": 270,
+   "kgm": 35.204,
+   "cevre": 905,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 270.0,
+   "b": 95.0,
+   "tw": 7.5,
+   "tf": 13.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 300",
+   "tip": "UPE",
+   "h": 300,
+   "kgm": 44.448,
+   "cevre": 981,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 300.0,
+   "b": 100.0,
+   "tw": 9.5,
+   "tf": 15.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 330",
+   "tip": "UPE",
+   "h": 330,
+   "kgm": 53.206,
+   "cevre": 1058,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 330.0,
+   "b": 105.0,
+   "tw": 11.0,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 360",
+   "tip": "UPE",
+   "h": 360,
+   "kgm": 61.166,
+   "cevre": 1136,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 360.0,
+   "b": 110.0,
+   "tw": 12.0,
+   "tf": 17.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "U profil (UPE) 400",
+   "tip": "UPE",
+   "h": 400,
+   "kgm": 72.172,
+   "cevre": 1233,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 400.0,
+   "b": 115.0,
+   "tw": 13.5,
+   "tf": 18.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 100",
+   "tip": "HEA",
+   "h": 100,
+   "kgm": 16.7,
+   "cevre": 582,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 96.0,
+   "b": 100.0,
+   "tw": 5.0,
+   "tf": 8.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 120",
+   "tip": "HEA",
+   "h": 120,
+   "kgm": 19.9,
+   "cevre": 698,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 114.0,
+   "b": 120.0,
+   "tw": 5.0,
+   "tf": 8.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 140",
+   "tip": "HEA",
+   "h": 140,
+   "kgm": 24.7,
+   "cevre": 815,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 133.0,
+   "b": 140.0,
+   "tw": 5.5,
+   "tf": 8.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 160",
+   "tip": "HEA",
+   "h": 160,
+   "kgm": 30.4,
+   "cevre": 932,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 152.0,
+   "b": 160.0,
+   "tw": 6.0,
+   "tf": 9.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 180",
+   "tip": "HEA",
+   "h": 180,
+   "kgm": 35.5,
+   "cevre": 1050,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 171.0,
+   "b": 180.0,
+   "tw": 6.0,
+   "tf": 9.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 200",
+   "tip": "HEA",
+   "h": 200,
+   "kgm": 42.3,
+   "cevre": 1167,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 190.0,
+   "b": 200.0,
+   "tw": 6.5,
+   "tf": 10.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 220",
+   "tip": "HEA",
+   "h": 220,
+   "kgm": 50.5,
+   "cevre": 1286,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 210.0,
+   "b": 220.0,
+   "tw": 7.0,
+   "tf": 11.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 240",
+   "tip": "HEA",
+   "h": 240,
+   "kgm": 60.3,
+   "cevre": 1405,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 230.0,
+   "b": 240.0,
+   "tw": 7.5,
+   "tf": 12.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 260",
+   "tip": "HEA",
+   "h": 260,
+   "kgm": 68.2,
+   "cevre": 1525,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 250.0,
+   "b": 260.0,
+   "tw": 7.5,
+   "tf": 12.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 280",
+   "tip": "HEA",
+   "h": 280,
+   "kgm": 76.4,
+   "cevre": 1644,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 270.0,
+   "b": 280.0,
+   "tw": 8.0,
+   "tf": 13.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 300",
+   "tip": "HEA",
+   "h": 300,
+   "kgm": 88.3,
+   "cevre": 1763,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 290.0,
+   "b": 300.0,
+   "tw": 8.5,
+   "tf": 14.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 320",
+   "tip": "HEA",
+   "h": 320,
+   "kgm": 97.6,
+   "cevre": 1802,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 310.0,
+   "b": 300.0,
+   "tw": 9.0,
+   "tf": 15.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 340",
+   "tip": "HEA",
+   "h": 340,
+   "kgm": 105.0,
+   "cevre": 1841,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 330.0,
+   "b": 300.0,
+   "tw": 9.5,
+   "tf": 16.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 360",
+   "tip": "HEA",
+   "h": 360,
+   "kgm": 112.0,
+   "cevre": 1880,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 350.0,
+   "b": 300.0,
+   "tw": 10.0,
+   "tf": 17.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 400",
+   "tip": "HEA",
+   "h": 400,
+   "kgm": 125.0,
+   "cevre": 1958,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 390.0,
+   "b": 300.0,
+   "tw": 11.0,
+   "tf": 19.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 450",
+   "tip": "HEA",
+   "h": 450,
+   "kgm": 140.0,
+   "cevre": 2057,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 440.0,
+   "b": 300.0,
+   "tw": 11.5,
+   "tf": 21.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 500",
+   "tip": "HEA",
+   "h": 500,
+   "kgm": 155.0,
+   "cevre": 2156,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 490.0,
+   "b": 300.0,
+   "tw": 12.0,
+   "tf": 23.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 550",
+   "tip": "HEA",
+   "h": 550,
+   "kgm": 166.259,
+   "cevre": 2255,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 540.0,
+   "b": 300.0,
+   "tw": 12.5,
+   "tf": 24.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 600",
+   "tip": "HEA",
+   "h": 600,
+   "kgm": 178.0,
+   "cevre": 2354,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 590.0,
+   "b": 300.0,
+   "tw": 13.0,
+   "tf": 25.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 650",
+   "tip": "HEA",
+   "h": 650,
+   "kgm": 189.715,
+   "cevre": 2453,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 640.0,
+   "b": 300.0,
+   "tw": 13.5,
+   "tf": 26.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 700",
+   "tip": "HEA",
+   "h": 700,
+   "kgm": 204.504,
+   "cevre": 2551,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 690.0,
+   "b": 300.0,
+   "tw": 14.5,
+   "tf": 27.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 800",
+   "tip": "HEA",
+   "h": 800,
+   "kgm": 224.409,
+   "cevre": 2750,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 790.0,
+   "b": 300.0,
+   "tw": 15.0,
+   "tf": 28.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 900",
+   "tip": "HEA",
+   "h": 900,
+   "kgm": 251.648,
+   "cevre": 2948,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 890.0,
+   "b": 300.0,
+   "tw": 16.0,
+   "tf": 30.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEA) 1000",
+   "tip": "HEA",
+   "h": 1000,
+   "kgm": 272.309,
+   "cevre": 3147,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 990.0,
+   "b": 300.0,
+   "tw": 16.5,
+   "tf": 31.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 100",
+   "tip": "HEB",
+   "h": 100,
+   "kgm": 20.4,
+   "cevre": 588,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 100.0,
+   "b": 100.0,
+   "tw": 6.0,
+   "tf": 10.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 120",
+   "tip": "HEB",
+   "h": 120,
+   "kgm": 26.7,
+   "cevre": 707,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 120.0,
+   "b": 120.0,
+   "tw": 6.5,
+   "tf": 11.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 140",
+   "tip": "HEB",
+   "h": 140,
+   "kgm": 33.7,
+   "cevre": 826,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 140.0,
+   "b": 140.0,
+   "tw": 7.0,
+   "tf": 12.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 160",
+   "tip": "HEB",
+   "h": 160,
+   "kgm": 42.6,
+   "cevre": 944,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 160.0,
+   "b": 160.0,
+   "tw": 8.0,
+   "tf": 13.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 180",
+   "tip": "HEB",
+   "h": 180,
+   "kgm": 51.2,
+   "cevre": 1063,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 180.0,
+   "b": 180.0,
+   "tw": 8.5,
+   "tf": 14.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 200",
+   "tip": "HEB",
+   "h": 200,
+   "kgm": 61.3,
+   "cevre": 1182,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 200.0,
+   "b": 200.0,
+   "tw": 9.0,
+   "tf": 15.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 220",
+   "tip": "HEB",
+   "h": 220,
+   "kgm": 71.5,
+   "cevre": 1301,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 220.0,
+   "b": 220.0,
+   "tw": 9.5,
+   "tf": 16.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 240",
+   "tip": "HEB",
+   "h": 240,
+   "kgm": 83.2,
+   "cevre": 1420,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 240.0,
+   "b": 240.0,
+   "tw": 10.0,
+   "tf": 17.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 260",
+   "tip": "HEB",
+   "h": 260,
+   "kgm": 93.0,
+   "cevre": 1540,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 260.0,
+   "b": 260.0,
+   "tw": 10.0,
+   "tf": 17.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 280",
+   "tip": "HEB",
+   "h": 280,
+   "kgm": 103.0,
+   "cevre": 1659,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 280.0,
+   "b": 280.0,
+   "tw": 10.5,
+   "tf": 18.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 300",
+   "tip": "HEB",
+   "h": 300,
+   "kgm": 117.0,
+   "cevre": 1778,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 300.0,
+   "b": 300.0,
+   "tw": 11.0,
+   "tf": 19.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 320",
+   "tip": "HEB",
+   "h": 320,
+   "kgm": 127.0,
+   "cevre": 1817,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 320.0,
+   "b": 300.0,
+   "tw": 11.5,
+   "tf": 20.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 340",
+   "tip": "HEB",
+   "h": 340,
+   "kgm": 134.0,
+   "cevre": 1856,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 340.0,
+   "b": 300.0,
+   "tw": 12.0,
+   "tf": 21.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 360",
+   "tip": "HEB",
+   "h": 360,
+   "kgm": 142.0,
+   "cevre": 1895,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 360.0,
+   "b": 300.0,
+   "tw": 12.5,
+   "tf": 22.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 400",
+   "tip": "HEB",
+   "h": 400,
+   "kgm": 155.0,
+   "cevre": 1973,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 400.0,
+   "b": 300.0,
+   "tw": 13.5,
+   "tf": 24.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 450",
+   "tip": "HEB",
+   "h": 450,
+   "kgm": 171.0,
+   "cevre": 2072,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 450.0,
+   "b": 300.0,
+   "tw": 14.0,
+   "tf": 26.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 500",
+   "tip": "HEB",
+   "h": 500,
+   "kgm": 187.0,
+   "cevre": 2171,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 500.0,
+   "b": 300.0,
+   "tw": 14.5,
+   "tf": 28.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 550",
+   "tip": "HEB",
+   "h": 550,
+   "kgm": 199.464,
+   "cevre": 2270,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 550.0,
+   "b": 300.0,
+   "tw": 15.0,
+   "tf": 29.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 600",
+   "tip": "HEB",
+   "h": 600,
+   "kgm": 212.0,
+   "cevre": 2369,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 600.0,
+   "b": 300.0,
+   "tw": 15.5,
+   "tf": 30.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 650",
+   "tip": "HEB",
+   "h": 650,
+   "kgm": 224.804,
+   "cevre": 2468,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 650.0,
+   "b": 300.0,
+   "tw": 16.0,
+   "tf": 31.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 700",
+   "tip": "HEB",
+   "h": 700,
+   "kgm": 240.535,
+   "cevre": 2566,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 700.0,
+   "b": 300.0,
+   "tw": 17.0,
+   "tf": 32.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 800",
+   "tip": "HEB",
+   "h": 800,
+   "kgm": 262.364,
+   "cevre": 2765,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 800.0,
+   "b": 300.0,
+   "tw": 17.5,
+   "tf": 33.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 900",
+   "tip": "HEB",
+   "h": 900,
+   "kgm": 291.487,
+   "cevre": 2963,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 900.0,
+   "b": 300.0,
+   "tw": 18.5,
+   "tf": 35.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEB) 1000",
+   "tip": "HEB",
+   "h": 1000,
+   "kgm": 314.071,
+   "cevre": 3162,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 1000.0,
+   "b": 300.0,
+   "tw": 19.0,
+   "tf": 36.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 100",
+   "tip": "HEM",
+   "h": 100,
+   "kgm": 41.8,
+   "cevre": 640,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 120.0,
+   "b": 106.0,
+   "tw": 12.0,
+   "tf": 20.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 120",
+   "tip": "HEM",
+   "h": 120,
+   "kgm": 52.1,
+   "cevre": 759,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 140.0,
+   "b": 126.0,
+   "tw": 12.5,
+   "tf": 21.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 140",
+   "tip": "HEM",
+   "h": 140,
+   "kgm": 63.2,
+   "cevre": 878,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 160.0,
+   "b": 146.0,
+   "tw": 13.0,
+   "tf": 22.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 160",
+   "tip": "HEM",
+   "h": 160,
+   "kgm": 76.2,
+   "cevre": 996,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 180.0,
+   "b": 166.0,
+   "tw": 14.0,
+   "tf": 23.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 180",
+   "tip": "HEM",
+   "h": 180,
+   "kgm": 88.9,
+   "cevre": 1115,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 200.0,
+   "b": 186.0,
+   "tw": 14.5,
+   "tf": 24.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 200",
+   "tip": "HEM",
+   "h": 200,
+   "kgm": 103.0,
+   "cevre": 1234,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 220.0,
+   "b": 206.0,
+   "tw": 15.0,
+   "tf": 25.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 220",
+   "tip": "HEM",
+   "h": 220,
+   "kgm": 117.0,
+   "cevre": 1353,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 240.0,
+   "b": 226.0,
+   "tw": 15.5,
+   "tf": 26.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 240",
+   "tip": "HEM",
+   "h": 240,
+   "kgm": 157.0,
+   "cevre": 1496,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 270.0,
+   "b": 248.0,
+   "tw": 18.0,
+   "tf": 32.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 260",
+   "tip": "HEM",
+   "h": 260,
+   "kgm": 172.0,
+   "cevre": 1616,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 290.0,
+   "b": 268.0,
+   "tw": 18.0,
+   "tf": 32.5
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 280",
+   "tip": "HEM",
+   "h": 280,
+   "kgm": 189.0,
+   "cevre": 1735,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 310.0,
+   "b": 288.0,
+   "tw": 18.5,
+   "tf": 33.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 300",
+   "tip": "HEM",
+   "h": 300,
+   "kgm": 238.0,
+   "cevre": 1878,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 340.0,
+   "b": 310.0,
+   "tw": 21.0,
+   "tf": 39.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 320",
+   "tip": "HEM",
+   "h": 320,
+   "kgm": 245.0,
+   "cevre": 1912,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 359.0,
+   "b": 309.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 340",
+   "tip": "HEM",
+   "h": 340,
+   "kgm": 248.0,
+   "cevre": 1948,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 377.0,
+   "b": 309.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 360",
+   "tip": "HEM",
+   "h": 360,
+   "kgm": 250.0,
+   "cevre": 1980,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 395.0,
+   "b": 308.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 400",
+   "tip": "HEM",
+   "h": 400,
+   "kgm": 256.0,
+   "cevre": 2050,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 432.0,
+   "b": 307.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 450",
+   "tip": "HEM",
+   "h": 450,
+   "kgm": 263.0,
+   "cevre": 2142,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 478.0,
+   "b": 307.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 500",
+   "tip": "HEM",
+   "h": 500,
+   "kgm": 270.0,
+   "cevre": 2230,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 524.0,
+   "b": 306.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 550",
+   "tip": "HEM",
+   "h": 550,
+   "kgm": 278.0,
+   "cevre": 2326,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 572.0,
+   "b": 306.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 600",
+   "tip": "HEM",
+   "h": 600,
+   "kgm": 285.0,
+   "cevre": 2418,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "tablo",
+   "yukseklik": 620.0,
+   "b": 305.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 650",
+   "tip": "HEM",
+   "h": 650,
+   "kgm": 293.413,
+   "cevre": 2514,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 668.0,
+   "b": 305.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 700",
+   "tip": "HEM",
+   "h": 700,
+   "kgm": 300.698,
+   "cevre": 2606,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 716.0,
+   "b": 304.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 800",
+   "tip": "HEM",
+   "h": 800,
+   "kgm": 317.384,
+   "cevre": 2798,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 814.0,
+   "b": 303.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 900",
+   "tip": "HEM",
+   "h": 900,
+   "kgm": 332.582,
+   "cevre": 2986,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 910.0,
+   "b": 302.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "haddelenmis",
+   "ad": "H profil (HEM) 1000",
+   "tip": "HEM",
+   "h": 1000,
+   "kgm": 348.737,
+   "cevre": 3182,
+   "std": "EN 10365",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "structuralcodes",
+   "yukseklik": 1008.0,
+   "b": 302.0,
+   "tw": 21.0,
+   "tf": 40.0
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C100×50×20×1.5",
+   "tip": "C",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 240,
+   "kgm": 2.826,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z100×50×20×1.5",
+   "tip": "Z",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 240,
+   "kgm": 2.826,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C100×50×20×2",
+   "tip": "C",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 2,
+   "acinim": 240,
+   "kgm": 3.768,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z100×50×20×2",
+   "tip": "Z",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 2,
+   "acinim": 240,
+   "kgm": 3.768,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C100×50×20×2.5",
+   "tip": "C",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 240,
+   "kgm": 4.71,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z100×50×20×2.5",
+   "tip": "Z",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 240,
+   "kgm": 4.71,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C100×50×20×3",
+   "tip": "C",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 3,
+   "acinim": 240,
+   "kgm": 5.652,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z100×50×20×3",
+   "tip": "Z",
+   "h": 100,
+   "b": 50,
+   "c": 20,
+   "t": 3,
+   "acinim": 240,
+   "kgm": 5.652,
+   "cevre": 480,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C120×50×20×1.5",
+   "tip": "C",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 260,
+   "kgm": 3.061,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z120×50×20×1.5",
+   "tip": "Z",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 260,
+   "kgm": 3.061,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C120×50×20×2",
+   "tip": "C",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 2,
+   "acinim": 260,
+   "kgm": 4.082,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z120×50×20×2",
+   "tip": "Z",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 2,
+   "acinim": 260,
+   "kgm": 4.082,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C120×50×20×2.5",
+   "tip": "C",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 260,
+   "kgm": 5.103,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z120×50×20×2.5",
+   "tip": "Z",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 260,
+   "kgm": 5.103,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C120×50×20×3",
+   "tip": "C",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 3,
+   "acinim": 260,
+   "kgm": 6.123,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z120×50×20×3",
+   "tip": "Z",
+   "h": 120,
+   "b": 50,
+   "c": 20,
+   "t": 3,
+   "acinim": 260,
+   "kgm": 6.123,
+   "cevre": 520,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C140×60×20×1.5",
+   "tip": "C",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 300,
+   "kgm": 3.532,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z140×60×20×1.5",
+   "tip": "Z",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 300,
+   "kgm": 3.532,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C140×60×20×2",
+   "tip": "C",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 2,
+   "acinim": 300,
+   "kgm": 4.71,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z140×60×20×2",
+   "tip": "Z",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 2,
+   "acinim": 300,
+   "kgm": 4.71,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C140×60×20×2.5",
+   "tip": "C",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 300,
+   "kgm": 5.887,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z140×60×20×2.5",
+   "tip": "Z",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 300,
+   "kgm": 5.887,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C140×60×20×3",
+   "tip": "C",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 3,
+   "acinim": 300,
+   "kgm": 7.065,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z140×60×20×3",
+   "tip": "Z",
+   "h": 140,
+   "b": 60,
+   "c": 20,
+   "t": 3,
+   "acinim": 300,
+   "kgm": 7.065,
+   "cevre": 600,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C160×60×20×1.5",
+   "tip": "C",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 320,
+   "kgm": 3.768,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z160×60×20×1.5",
+   "tip": "Z",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 320,
+   "kgm": 3.768,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C160×60×20×2",
+   "tip": "C",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 2,
+   "acinim": 320,
+   "kgm": 5.024,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z160×60×20×2",
+   "tip": "Z",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 2,
+   "acinim": 320,
+   "kgm": 5.024,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C160×60×20×2.5",
+   "tip": "C",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 320,
+   "kgm": 6.28,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z160×60×20×2.5",
+   "tip": "Z",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 320,
+   "kgm": 6.28,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C160×60×20×3",
+   "tip": "C",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 3,
+   "acinim": 320,
+   "kgm": 7.536,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z160×60×20×3",
+   "tip": "Z",
+   "h": 160,
+   "b": 60,
+   "c": 20,
+   "t": 3,
+   "acinim": 320,
+   "kgm": 7.536,
+   "cevre": 640,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C180×70×20×1.5",
+   "tip": "C",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 360,
+   "kgm": 4.239,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z180×70×20×1.5",
+   "tip": "Z",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 360,
+   "kgm": 4.239,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C180×70×20×2",
+   "tip": "C",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 360,
+   "kgm": 5.652,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z180×70×20×2",
+   "tip": "Z",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 360,
+   "kgm": 5.652,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C180×70×20×2.5",
+   "tip": "C",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 360,
+   "kgm": 7.065,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z180×70×20×2.5",
+   "tip": "Z",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 360,
+   "kgm": 7.065,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C180×70×20×3",
+   "tip": "C",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 360,
+   "kgm": 8.478,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z180×70×20×3",
+   "tip": "Z",
+   "h": 180,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 360,
+   "kgm": 8.478,
+   "cevre": 720,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C200×70×20×1.5",
+   "tip": "C",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 380,
+   "kgm": 4.474,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z200×70×20×1.5",
+   "tip": "Z",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 380,
+   "kgm": 4.474,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C200×70×20×2",
+   "tip": "C",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 380,
+   "kgm": 5.966,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z200×70×20×2",
+   "tip": "Z",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 380,
+   "kgm": 5.966,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C200×70×20×2.5",
+   "tip": "C",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 380,
+   "kgm": 7.457,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z200×70×20×2.5",
+   "tip": "Z",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 380,
+   "kgm": 7.457,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C200×70×20×3",
+   "tip": "C",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 380,
+   "kgm": 8.949,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z200×70×20×3",
+   "tip": "Z",
+   "h": 200,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 380,
+   "kgm": 8.949,
+   "cevre": 760,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C220×70×20×1.5",
+   "tip": "C",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 400,
+   "kgm": 4.71,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z220×70×20×1.5",
+   "tip": "Z",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 1.5,
+   "acinim": 400,
+   "kgm": 4.71,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C220×70×20×2",
+   "tip": "C",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 400,
+   "kgm": 6.28,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z220×70×20×2",
+   "tip": "Z",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 2,
+   "acinim": 400,
+   "kgm": 6.28,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C220×70×20×2.5",
+   "tip": "C",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 400,
+   "kgm": 7.85,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z220×70×20×2.5",
+   "tip": "Z",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 2.5,
+   "acinim": 400,
+   "kgm": 7.85,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C220×70×20×3",
+   "tip": "C",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 400,
+   "kgm": 9.42,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z220×70×20×3",
+   "tip": "Z",
+   "h": 220,
+   "b": 70,
+   "c": 20,
+   "t": 3,
+   "acinim": 400,
+   "kgm": 9.42,
+   "cevre": 800,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C250×80×25×1.5",
+   "tip": "C",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 1.5,
+   "acinim": 460,
+   "kgm": 5.416,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z250×80×25×1.5",
+   "tip": "Z",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 1.5,
+   "acinim": 460,
+   "kgm": 5.416,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C250×80×25×2",
+   "tip": "C",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 2,
+   "acinim": 460,
+   "kgm": 7.222,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z250×80×25×2",
+   "tip": "Z",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 2,
+   "acinim": 460,
+   "kgm": 7.222,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C250×80×25×2.5",
+   "tip": "C",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 2.5,
+   "acinim": 460,
+   "kgm": 9.027,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z250×80×25×2.5",
+   "tip": "Z",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 2.5,
+   "acinim": 460,
+   "kgm": 9.027,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C250×80×25×3",
+   "tip": "C",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 3,
+   "acinim": 460,
+   "kgm": 10.833,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z250×80×25×3",
+   "tip": "Z",
+   "h": 250,
+   "b": 80,
+   "c": 25,
+   "t": 3,
+   "acinim": 460,
+   "kgm": 10.833,
+   "cevre": 920,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C300×90×25×1.5",
+   "tip": "C",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 1.5,
+   "acinim": 530,
+   "kgm": 6.241,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z300×90×25×1.5",
+   "tip": "Z",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 1.5,
+   "acinim": 530,
+   "kgm": 6.241,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C300×90×25×2",
+   "tip": "C",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 2,
+   "acinim": 530,
+   "kgm": 8.321,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z300×90×25×2",
+   "tip": "Z",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 2,
+   "acinim": 530,
+   "kgm": 8.321,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C300×90×25×2.5",
+   "tip": "C",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 2.5,
+   "acinim": 530,
+   "kgm": 10.401,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z300×90×25×2.5",
+   "tip": "Z",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 2.5,
+   "acinim": 530,
+   "kgm": 10.401,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "C aşık C300×90×25×3",
+   "tip": "C",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 3,
+   "acinim": 530,
+   "kgm": 12.481,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  },
+  {
+   "tur": "asik",
+   "ad": "Z aşık Z300×90×25×3",
+   "tip": "Z",
+   "h": 300,
+   "b": 90,
+   "c": 25,
+   "t": 3,
+   "acinim": 530,
+   "kgm": 12.481,
+   "cevre": 1060,
+   "std": "EN 1993-1-3",
+   "boy": [
+    6000,
+    12000
+   ],
+   "kaynak": "açınım"
+  }
+ ],
+ "sac_kalinlik": [
+  0.5,
+  0.6,
+  0.7,
+  0.8,
+  0.9,
+  1,
+  1.2,
+  1.5,
+  2,
+  2.5,
+  3,
+  4,
+  5,
+  6,
+  8,
+  10,
+  12,
+  15,
+  20,
+  25,
+  30,
+  35,
+  40,
+  45,
+  50,
+  60,
+  70,
+  80,
+  100,
+  120,
+  150
+ ],
+ "sac_olcu": [
+  {
+   "en": 1000,
+   "boy": 2000,
+   "ad": "1000×2000"
+  },
+  {
+   "en": 1200,
+   "boy": 2400,
+   "ad": "1200×2400"
+  },
+  {
+   "en": 1250,
+   "boy": 2500,
+   "ad": "1250×2500"
+  },
+  {
+   "en": 1500,
+   "boy": 3000,
+   "ad": "1500×3000"
+  },
+  {
+   "en": 1500,
+   "boy": 6000,
+   "ad": "1500×6000"
+  },
+  {
+   "en": 2000,
+   "boy": 6000,
+   "ad": "2000×6000"
+  },
+  {
+   "en": 2000,
+   "boy": 4000,
+   "ad": "2000×4000"
+  },
+  {
+   "en": 2500,
+   "boy": 6000,
+   "ad": "2500×6000"
+  },
+  {
+   "en": 3000,
+   "boy": 12000,
+   "ad": "3000×12000"
+  }
+ ],
+ "stok_boy": [
+  6000,
+  12000
+ ],
+ "malzeme_carpan": {
+  "çelik": 1.0,
+  "galvaniz": 1.04,
+  "paslanmaz": 1.006,
+  "alüminyum": 0.344,
+  "pirinç": 1.083,
+  "bakır": 1.141,
+  "bronz": 1.121
+ }
+}
